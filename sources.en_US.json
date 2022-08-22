@@ -6,6 +6,8 @@
         "site_url": "99bitcoins.com",
         "feed_url": "https://99bitcoins.com/feed/",
         "favicon_url": "https://99bitcoins.com/favicon.ico",
+        "cover_url": "https://99bitcoins.com/wp-content/uploads/2022/03/99bitcoins-og.png",
+        "background_color": "#ffffff",
         "score": 1.19,
         "destination_domains": [
             "99bitcoins.com"
@@ -24,6 +26,8 @@
         "site_url": "9to5mac.com",
         "feed_url": "https://9to5mac.com/feed/",
         "favicon_url": "https://9to5mac.com/favicon.ico",
+        "cover_url": "https://9to5mac.com/wp-content/themes/9to5-2015/images/favicons/9to5mac/icon-192x192.png",
+        "background_color": "#004b7d",
         "score": -0.83,
         "destination_domains": [
             "9to5mac.com"
@@ -42,6 +46,8 @@
         "site_url": "abcnews.com",
         "feed_url": "https://abcnews.go.com/abcnews/topstories",
         "favicon_url": "https://s.abcnews.com/assets/dtci/images/favicon.ico",
+        "cover_url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+        "background_color": "#78a0d4",
         "score": 1.49,
         "destination_domains": [
             "abcnews.go.com"
@@ -60,6 +66,8 @@
         "site_url": "afar.com",
         "feed_url": "https://feeds.feedburner.com/AfarMagazine",
         "favicon_url": "https://afar.com/favicon.ico",
+        "cover_url": "https://afar.com/apple-touch-icon.png",
+        "background_color": "#ffffff",
         "score": -1.45,
         "destination_domains": [
             "www.afar.com"
@@ -78,6 +86,8 @@
         "site_url": "adventure.com",
         "feed_url": "https://adventure.com/feed/",
         "favicon_url": "https://adventure.com/favicon.ico",
+        "cover_url": "https://adventure.com/wp-content/uploads/2017/03/cropped-small_black-192x192.png",
+        "background_color": "#0f0f0f",
         "score": 0.63,
         "destination_domains": [
             "adventure.com"
@@ -96,6 +106,8 @@
         "site_url": "aintitcool.com",
         "feed_url": "https://www.aintitcool.com/node/feed/",
         "favicon_url": "https://aintitcool.com/favicon.ico",
+        "cover_url": "https://media.aintitcool.com/static/social/facebook-wide-dannie.png",
+        "background_color": "#9a6601",
         "score": -0.58,
         "destination_domains": [
             "www.aintitcool.com"
@@ -114,6 +126,8 @@
         "site_url": "aljazeera.com",
         "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
         "favicon_url": "https://aljazeera.com/favicon_aje.ico",
+        "cover_url": "https://www.aljazeera.com/images/logo_aje_social.png",
+        "background_color": "#fb9605",
         "score": -1.07,
         "destination_domains": [
             "www.aljazeera.com"
@@ -132,6 +146,8 @@
         "site_url": "androidcentral.com",
         "feed_url": "https://www.androidcentral.com/feed",
         "favicon_url": "https://cdn.mos.cms.futurecdn.net/flexiimages/ojylbffmdc1632303233.png",
+        "cover_url": "https://cdn.mos.cms.futurecdn.net/flexiimages/m3uyybbdos1632303243.png",
+        "background_color": "#93bd49",
         "score": 0.48,
         "destination_domains": [
             "www.androidcentral.com"
@@ -150,6 +166,8 @@
         "site_url": "apartmenttherapy.com",
         "feed_url": "https://www.apartmenttherapy.com/main.rss",
         "favicon_url": "https://apartmenttherapy.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 11.57,
         "destination_domains": [
             "www.apartmenttherapy.com"
@@ -168,6 +186,8 @@
         "site_url": "arstechnica.com",
         "feed_url": "https://feeds.arstechnica.com/arstechnica/science",
         "favicon_url": "https://cdn.arstechnica.net/favicon.ico",
+        "cover_url": "https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png",
+        "background_color": "#ff4e00",
         "score": 1.61,
         "destination_domains": [
             "arstechnica.com"
@@ -186,6 +206,8 @@
         "site_url": "feeds.feedburner.com/arseblog.com",
         "feed_url": "https://feeds.feedburner.com/arseblog",
         "favicon_url": "https://feeds.feedburner.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": -1.13,
         "destination_domains": [
             "shows.acast.com"
@@ -204,6 +226,8 @@
         "site_url": "atlasobscura.com",
         "feed_url": "https://www.atlasobscura.com/feeds/latest",
         "favicon_url": "https://s3.amazonaws.com/atlas-dev/misc/icons/favicon.ico",
+        "cover_url": "https://s3.amazonaws.com/atlas-dev/misc/icons/android-chrome-256x256.png",
+        "background_color": "#382c14",
         "score": 6.64,
         "destination_domains": [
             "www.atlasobscura.com"
@@ -222,6 +246,8 @@
         "site_url": "autoblog.com",
         "feed_url": "https://www.autoblog.com/rss.xml",
         "favicon_url": "https://autoblog.com/v/b652c4141909a85f3a57d85687bdf40ffa6ee66d/img/favicon/favicon.ico?v=2.0.2",
+        "cover_url": "https://autoblog.com/img/favicon/android-chrome-192x192.png?v=4",
+        "background_color": "#ec2930",
         "score": 10.1,
         "destination_domains": [
             "www.autoblog.com"
@@ -240,6 +266,8 @@
         "site_url": "autocar.co.uk",
         "feed_url": "https://www.autocar.co.uk/rss/latestnews",
         "favicon_url": "https://www.autocar.co.uk/sites/autocar.co.uk/themes/custom/autocar/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": -0.18,
         "destination_domains": [
             "www.autocar.co.uk"
@@ -258,6 +286,8 @@
         "site_url": "autosport.com",
         "feed_url": "https://www.autosport.com/rss/all/news/",
         "favicon_url": "https://autosport.com/favicon.ico",
+        "cover_url": "https://cdn-3.motorsport.com/static/custom/autosport.jpg",
+        "background_color": "#fe0000",
         "score": 0.5,
         "destination_domains": [
             "www.autosport.com"
@@ -276,6 +306,8 @@
         "site_url": "axios.com",
         "feed_url": "https://api.axios.com/feed/",
         "favicon_url": "https://axios.com/images/favicon-32x32.png",
+        "cover_url": "https://assets.axios.com/203e9f932cc97836ac2ff4c6c982676c.png",
+        "background_color": "#222222",
         "score": -1.14,
         "destination_domains": [
             "www.axios.com"
@@ -294,6 +326,8 @@
         "site_url": "bbc.co.uk",
         "feed_url": "https://feeds.bbci.co.uk/news/rss.xml?edition=int",
         "favicon_url": "https://bbc.co.uk/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 3.22,
         "destination_domains": [
             "www.bbc.co.uk"
@@ -312,6 +346,8 @@
         "site_url": "btcmanager.com",
         "feed_url": "https://btcmanager.com/feed/",
         "favicon_url": "https://btcmanager.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": -0.16,
         "destination_domains": [
             "btcmanager.com"
@@ -330,6 +366,8 @@
         "site_url": "syfy.com",
         "feed_url": "https://www.syfy.com/syfy-wire/topic/bad-astronomy/feed",
         "favicon_url": "https://syfy.com/favicon.ico",
+        "cover_url": "https://www.syfy.com/sites/syfy/themes/custom/syfy/logo.png",
+        "background_color": "#333333",
         "score": 0.36,
         "destination_domains": [
             "www.syfy.com"
@@ -348,6 +386,8 @@
         "site_url": "bigthink.com",
         "feed_url": "https://feeds.feedburner.com/bigthink/main",
         "favicon_url": "https://bigthink.com/favicon.ico",
+        "cover_url": "https://bigthink.com/wp-content/uploads/2021/09/cropped-android-chrome-512x512-1.png?w=192",
+        "background_color": "#000000",
         "score": 0.2,
         "destination_domains": [
             "bigthink.com"
@@ -366,6 +406,8 @@
         "site_url": "bikeexif.com",
         "feed_url": "https://www.bikeexif.com/feed",
         "favicon_url": "https://kickstart.bikeexif.com/favicon.ico?v=YAAYRd87NE",
+        "cover_url": "https://bikeexif.com/android-chrome-192x192.png?v=YAAYRd87NE",
+        "background_color": "#ffffff",
         "score": 0.21,
         "destination_domains": [
             "www.bikeexif.com"
@@ -384,6 +426,8 @@
         "site_url": "bitcoinmagazine.com",
         "feed_url": "https://feeds.feedburner.com/BitcoinMagazine",
         "favicon_url": "https://bitcoinmagazine.com/.image/MTc5Mjk4NDA4ODQ1MDI3MDEx/bitcoin_black_favicon-512.svg",
+        "cover_url": null,
+        "background_color": null,
         "score": 3.09,
         "destination_domains": [
             "bitcoinmagazine.com"
@@ -402,6 +446,8 @@
         "site_url": "bitcoinist.com",
         "feed_url": "https://feeds.feedburner.com/bitcoinist/",
         "favicon_url": "https://bitcoinist.com/favicon.ico",
+        "cover_url": "https://bitcoinist.com/wp-content/uploads/2021/04/cropped-cropped-cropped-Icon-192x192.png",
+        "background_color": "#0099fd",
         "score": 1.96,
         "destination_domains": [
             "bitcoinist.com"
@@ -420,6 +466,8 @@
         "site_url": "bleacherreport.com",
         "feed_url": "https://bleacherreport.com/articles/feed",
         "favicon_url": "https://static-assets.bleacherreport.net/favicon.ico",
+        "cover_url": "https://bleacherreport.com/img/favicon/manifest-256x256.png",
+        "background_color": "#000000",
         "score": 3.51,
         "destination_domains": [
             "bleacherreport.com"
@@ -438,6 +486,8 @@
         "site_url": "blockgeeks.com",
         "feed_url": "https://blockgeeks.com/feed/",
         "favicon_url": "https://blockgeeks.com/favicon.ico",
+        "cover_url": "https://blockgeeks.com/wp-content/uploads/2016/09/blockchain.jpg",
+        "background_color": "#0f131f",
         "score": -0.28,
         "destination_domains": [
             "blockgeeks.com"
@@ -456,6 +506,8 @@
         "site_url": "boardingarea.com",
         "feed_url": "https://boardingarea.com/feed/atom/",
         "favicon_url": "https://boardingarea.com/wp-content/themes/boardingarea/img/favicon.ico",
+        "cover_url": "https://boardingarea.com/wp-content/themes/boardingarea/img/apple-touch-icon-144x144.png",
+        "background_color": "#374042",
         "score": 0.17,
         "destination_domains": [
             "www.paddleyourownkanoo.com",
@@ -482,6 +534,8 @@
         "site_url": "bobvila.com",
         "feed_url": "https://www.bobvila.com/rss.xml",
         "favicon_url": "https://bobvila.com/favicon.ico",
+        "cover_url": "https://bobvila.com/android-chrome-512x512.png",
+        "background_color": "#000000",
         "score": 0.61,
         "destination_domains": [
             "www.bobvila.com"
@@ -501,6 +555,8 @@
         "site_url": "boingboing.net",
         "feed_url": "https://boingboing.net/feed",
         "favicon_url": "https://boingboing.net/wp-content/uploads/fbrfg/favicon.ico?v=2.1",
+        "cover_url": "https://boingboing.net/wp-content/uploads/fbrfg/android-chrome-256x256.png?v=2.1",
+        "background_color": "#f6f6f6",
         "score": 2.27,
         "destination_domains": [
             "boingboing.net"
@@ -519,6 +575,8 @@
         "site_url": "bonappetit.com",
         "feed_url": "https://www.bonappetit.com/feed/rss",
         "favicon_url": "https://www.bonappetit.com/verso/static/bon-appetit/assets/favicon.ico",
+        "cover_url": "https://assets.bonappetit.com/photos/597f6564e85ce178131a6475/16:9/w_1280,c_limit/0817-murray-mancini-dried-tomato-pie.jpg?mbid=social_retweet",
+        "background_color": "#bf7931",
         "score": 6.8,
         "destination_domains": [
             "www.bonappetit.com"
@@ -537,6 +595,8 @@
         "site_url": "brainpickings.org",
         "feed_url": "https://feeds.feedburner.com/brainpickings/rss",
         "favicon_url": "https://www.themarginalian.org/wp-content/themes/themarginalian/images/favicon.ico",
+        "cover_url": "https://brainpickings.org/android-chrome-512x512.png",
+        "background_color": "#ffdc00",
         "score": 1.94,
         "destination_domains": [
             "www.themarginalian.org"
@@ -555,6 +615,8 @@
         "site_url": "brave.com",
         "feed_url": "https://brave.com/blog/index.xml",
         "favicon_url": "https://brave.com/favicon.ico",
+        "cover_url": "https://brave.com/static-assets/images/cropped-brave_appicon_release-192x192.png",
+        "background_color": "#fb2d04",
         "score": 1.0,
         "destination_domains": [
             "brave.com"
@@ -573,6 +635,8 @@
         "site_url": "breitbart.com",
         "feed_url": "https://feeds.feedburner.com/breitbart",
         "favicon_url": "https://breitbart.com/favicon.ico",
+        "cover_url": "https://breitbart.com/android-chrome-512x512.png",
+        "background_color": "#fb5303",
         "score": -0.45,
         "destination_domains": [
             "www.breitbart.com"
@@ -592,6 +656,8 @@
         "site_url": "bringatrailer.com",
         "feed_url": "https://bringatrailer.com/feed/",
         "favicon_url": "https://bringatrailer.com/wp-content/themes/bringatrailer/assets/img/favicon.ico?v=4e421e3271",
+        "cover_url": "https://bringatrailer.com/wp-content/themes/bringatrailer/assets/img/apple-touch-icon-ipad-retina-152x152.png?v=http://4e421e3271",
+        "background_color": "#fefefe",
         "score": -0.21,
         "destination_domains": [
             "bringatrailer.com"
@@ -610,6 +676,8 @@
         "site_url": "bubbyandbean.com/",
         "feed_url": "https://feeds.feedburner.com/BubbyAndBean",
         "favicon_url": "https://1.bp.blogspot.com/-r-xjpcCVCRE/XXf6rNS0_VI/AAAAAAAAkf8/YQKQddgxQdM0xKmajz9YualkHd9HMXK3wCLcBGAs/s1600/favicon.png",
+        "cover_url": "https://1.bp.blogspot.com/-r-xjpcCVCRE/XXf6rNS0_VI/AAAAAAAAkf8/YQKQddgxQdM0xKmajz9YualkHd9HMXK3wCLcBGAs/s1600/favicon.png",
+        "background_color": "#7d7b7c",
         "score": -0.56,
         "destination_domains": [
             "www.bubbyandbean.com"
@@ -628,6 +696,8 @@
         "site_url": "businessinsider.com",
         "feed_url": "https://feeds2.feedburner.com/businessinsider",
         "favicon_url": "https://businessinsider.com/public/assets/BI/US/favicons/favicon.ico?v=2021-08",
+        "cover_url": "https://www.businessinsider.com/public/assets/BI/US/favicons/android-chrome-512x512.png?v=2021-03",
+        "background_color": "#096ffa",
         "score": 2.03,
         "destination_domains": [
             "www.businessinsider.com",
@@ -647,6 +717,8 @@
         "site_url": "cbc.ca",
         "feed_url": "https://www.cbc.ca/cmlink/rss-topstories",
         "favicon_url": "https://cbc.ca/favicon.ico",
+        "cover_url": "https://cbc.ca/a/apple-touch-icon.png",
+        "background_color": "#1a1a1a",
         "score": -1.06,
         "destination_domains": [
             "www.cbc.ca"
@@ -665,6 +737,8 @@
         "site_url": "cbssports.com",
         "feed_url": "https://www.cbssports.com/rss/headlines/",
         "favicon_url": "https://cbssports.com/favicon.ico",
+        "cover_url": "https://sportsfly.cbsistatic.com/fly-0302/bundles/sportsmediacss/images/core/webclips/apple-touch-icon-180.png",
+        "background_color": "#0049ce",
         "score": 2.03,
         "destination_domains": [
             "www.cbssports.com"
@@ -683,6 +757,8 @@
         "site_url": "cnbc.com",
         "feed_url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
         "favicon_url": "https://cnbc.com/favicon.ico",
+        "cover_url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804&w=1920&h=1080",
+        "background_color": "#ffffff",
         "score": 2.09,
         "destination_domains": [
             "www.cnbc.com"
@@ -701,6 +777,8 @@
         "site_url": "cnet.com",
         "feed_url": "https://www.cnet.com/rss/news/",
         "favicon_url": "https://cnet.com/favicon.ico?v=2",
+        "cover_url": "https://cnet.com/android-chrome-256x256.png",
+        "background_color": "#e71f1f",
         "score": 10.1,
         "destination_domains": [
             "www.cnet.com"
@@ -719,6 +797,8 @@
         "site_url": "cnn.com",
         "feed_url": "https://rss.cnn.com/rss/cnn_topstories.rss",
         "favicon_url": "https://cnn.com/favicon.ico",
+        "cover_url": "https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/apple-touch-icon.png",
+        "background_color": "#cc0000",
         "score": 7.04,
         "destination_domains": [
             "www.cnn.com"
@@ -737,6 +817,8 @@
         "site_url": "caranddriver.com",
         "feed_url": "https://www.caranddriver.com/rss/all.xml/",
         "favicon_url": "https://caranddriver.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 4.33,
         "destination_domains": [
             "www.caranddriver.com"
@@ -755,6 +837,8 @@
         "site_url": "carbuzz.com",
         "feed_url": "https://carbuzz.com/rss/news",
         "favicon_url": "https://cdn.carbuzz.com/i/icons/favicon.png",
+        "cover_url": "https://cdn.carbuzz.com/i/icons/pwa-icons/icon-512.png",
+        "background_color": "#ffffff",
         "score": 1.02,
         "destination_domains": [
             "carbuzz.com"
@@ -773,6 +857,8 @@
         "site_url": "carscoops.com",
         "feed_url": "https://www.carscoops.com/category/news/feed/",
         "favicon_url": "https://carscoops.com/favicon.ico",
+        "cover_url": "https://www.carscoops.com/wp-content/uploads/2019/03/e20906f6-csp-icon-red25px.png",
+        "background_color": "#e21313",
         "score": 0.35,
         "destination_domains": [
             "www.carscoops.com"
@@ -791,6 +877,8 @@
         "site_url": "cinemablend.com",
         "feed_url": "https://www.cinemablend.com/rss/topic/news/movies",
         "favicon_url": "https://cdn.mos.cms.futurecdn.net/flexiimages/hozbghjqvf1619422471.png",
+        "cover_url": "https://cdn.mos.cms.futurecdn.net/flexiimages/tbhqzd9bso1619422461.png",
+        "background_color": "#161e2f",
         "score": -0.63,
         "destination_domains": [
             "www.cinemablend.com"
@@ -809,6 +897,8 @@
         "site_url": "cointelegraph.com",
         "feed_url": "https://cointelegraph.com/rss",
         "favicon_url": "https://cointelegraph.com/favicons/favicon.ico",
+        "cover_url": "https://cointelegraph.com/favicons/android-chrome-512x512.png",
+        "background_color": "#253137",
         "score": 16.96,
         "destination_domains": [
             "cointelegraph.com"
@@ -827,6 +917,8 @@
         "site_url": "complex.com",
         "feed_url": "https://assets.complex.com/feeds/channels/all.xml",
         "favicon_url": "https://images.complex.com/complex/image/upload/v1403733167/favicon.ico",
+        "cover_url": "https://images.complex.com/complex/image/upload/w_1024,h_1024/complex-box-logo-2014_mpwmgz.png",
+        "background_color": "#000000",
         "score": 1.15,
         "destination_domains": [
             "www.complex.com",
@@ -846,6 +938,8 @@
         "site_url": "contemporist.com",
         "feed_url": "https://feeds.feedburner.com/contemporist",
         "favicon_url": "https://contemporist.com/favicon.ico",
+        "cover_url": "https://contemporist.com/apple-touch-icon.png",
+        "background_color": "#186faf",
         "score": 0.63,
         "destination_domains": [
             "www.contemporist.com"
@@ -864,6 +958,8 @@
         "site_url": "coolhunting.com",
         "feed_url": "https://coolhunting.com/feed/atom/",
         "favicon_url": "https://coolhunting.com/favicon.ico",
+        "cover_url": "https://i0.wp.com/coolhunting.com/wp-content/uploads/2018/08/cropped-cropped-CH-Logo-icon-3.png?fit=192%2C192&ssl=1",
+        "background_color": "#000000",
         "score": 1.15,
         "destination_domains": [
             "coolhunting.com"
@@ -882,6 +978,8 @@
         "site_url": "cracked.com",
         "feed_url": "https://feeds.feedburner.com/CrackedRSS",
         "favicon_url": "https://cracked.com/favicon.ico",
+        "cover_url": "https://ui-seo-8.crackedcdn.com/images/favicon/apple-touch-icon.png?v=98b3723116c00a2a93573a4b452ee8fd",
+        "background_color": "#727272",
         "score": 1.55,
         "destination_domains": [
             "www.cracked.com"
@@ -900,6 +998,8 @@
         "site_url": "cryptopotato.com",
         "feed_url": "https://cryptopotato.com/feed/",
         "favicon_url": "https://cryptopotato.com/favicon.ico",
+        "cover_url": "https://cdn.shortpixel.ai/spai/q_lossless+ret_img/https://cryptopotato.com/wp-content/uploads/2020/07/cropped-potato-fav2-192x192.jpg",
+        "background_color": "#3b3b3b",
         "score": -0.3,
         "destination_domains": [
             "cryptopotato.com"
@@ -918,6 +1018,8 @@
         "site_url": "cryptoslate.com",
         "feed_url": "https://cryptoslate.com/feed/",
         "favicon_url": "https://cryptoslate.com/favicon.ico",
+        "cover_url": "https://cryptoslate.com/wp-content/themes/cryptoslate-2020/icons/android-icon-192x192.png",
+        "background_color": "#100e1b",
         "score": 0.18,
         "destination_domains": [
             "cryptoslate.com"
@@ -936,6 +1038,8 @@
         "site_url": "wearedore.com",
         "feed_url": "https://www.wearedore.com/feed/",
         "favicon_url": "https://wearedore.com/favicon.ico",
+        "cover_url": "https://cdn.shopify.com/s/files/1/0551/2904/7127/files/seal-dark_32x32.png?v=1644690671",
+        "background_color": "#318976",
         "score": -0.27,
         "destination_domains": [
             "www.wearedore.com"
@@ -954,6 +1058,8 @@
         "site_url": "dailycaller.com",
         "feed_url": "https://dailycaller.com/section/us/feed/",
         "favicon_url": "https://dailycaller.com/favicon.ico",
+        "cover_url": "https://dailycaller.com/files/DailyCaller-Icon.png",
+        "background_color": "#000000",
         "score": -0.89,
         "destination_domains": [
             "dailycaller.com"
@@ -973,6 +1079,8 @@
         "site_url": "dailymail.co.uk",
         "feed_url": "https://www.dailymail.co.uk/home/index.rss",
         "favicon_url": "https://dailymail.co.uk/favicon.ico",
+        "cover_url": "https://dailymail.co.uk/favicon.ico?v=2",
+        "background_color": "#004db3",
         "score": 1.42,
         "destination_domains": [
             "www.dailymail.co.uk"
@@ -991,6 +1099,8 @@
         "site_url": "deadline.com",
         "feed_url": "https://deadline.com/feed/",
         "favicon_url": "https://deadline.com/wp-content/themes/pmc-deadline-2019/assets/app/icons/favicon.ico",
+        "cover_url": "https://deadline.com/wp-content/themes/pmc-deadline-2019/assets/app/icons/icon-512x512.png",
+        "background_color": "#000000",
         "score": 0.9,
         "destination_domains": [
             "deadline.com"
@@ -1010,6 +1120,8 @@
         "site_url": "deadspin.com",
         "feed_url": "https://feeds.feedburner.com/deadspin/",
         "favicon_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/rnxqtvv6advgidzfs6am.png",
+        "cover_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_200,q_80,w_200/rnxqtvv6advgidzfs6am.png",
+        "background_color": "#1b3a4d",
         "score": 1.49,
         "destination_domains": [
             "deadspin.com"
@@ -1028,6 +1140,8 @@
         "site_url": "decrypt.co",
         "feed_url": "https://decrypt.co/feed/",
         "favicon_url": "https://decrypt.co/favicon.ico",
+        "cover_url": "https://cdn.decrypt.co/wp-content/themes/decrypt-media/assets/images/favicon-32x32.png",
+        "background_color": "#303030",
         "score": 2.23,
         "destination_domains": [
             "decrypt.co"
@@ -1046,6 +1160,8 @@
         "site_url": "democracynow.org",
         "feed_url": "https://www.democracynow.org/democracynow.rss",
         "favicon_url": "https://democracynow.org/favicon.ico",
+        "cover_url": "https://assets.democracynow.org/assets/default_content_image-354f4555cc64afadc730d64243c658dd0af1f330152adcda6c4900cb4a26f082.jpg",
+        "background_color": "#172027",
         "score": -1.39,
         "destination_domains": [
             "www.democracynow.org"
@@ -1065,6 +1181,8 @@
         "site_url": "spiegel.de",
         "feed_url": "https://www.spiegel.de/international/index.rss",
         "favicon_url": "https://cdn.prod.www.spiegel.de/public/spon/images/icons/favicon.ico",
+        "cover_url": "https://cdn.prod.www.spiegel.de/public/spon/images/icons/touch-icon180.png",
+        "background_color": "#e64415",
         "score": -1.19,
         "destination_domains": [
             "www.spiegel.de"
@@ -1083,6 +1201,8 @@
         "site_url": "design-milk.com",
         "feed_url": "https://feeds.feedburner.com/design-milk",
         "favicon_url": "https://design-milk.com/favicon.ico",
+        "cover_url": "https://design-milk.com/img/favicon/dm-favicon-192-192.png",
+        "background_color": "#000000",
         "score": 7.52,
         "destination_domains": [
             "design-milk.com"
@@ -1102,6 +1222,8 @@
         "site_url": "digitaltrends.com",
         "feed_url": "https://www.digitaltrends.com/feed/",
         "favicon_url": "https://digitaltrends.com/favicon.ico",
+        "cover_url": "https://www.digitaltrends.com/wp-content/uploads/2020/08/dt-site-icon.png?fit=144%2C144&p=1",
+        "background_color": "#0290fa",
         "score": 1.31,
         "destination_domains": [
             "www.digitaltrends.com"
@@ -1120,6 +1242,8 @@
         "site_url": "dilbert.com",
         "feed_url": "https://feeds.feedburner.com/DilbertDailyStrip",
         "favicon_url": "https://dilbert.com/assets/packs/images/favicon/favicon-d10216bec74c15652860bbf4ddf1084a.ico",
+        "cover_url": "https://dilbert.com/assets/packs/images/favicon/favicon-196x196-21d3f791195be908fc24b0eca3eaaeac.png",
+        "background_color": "#242122",
         "score": 2.81,
         "destination_domains": [
             "dilbert.com"
@@ -1138,6 +1262,8 @@
         "site_url": "eonline.com",
         "feed_url": "https://syndication.eonline.com/syndication/feeds/rssfeeds/topstories.xml",
         "favicon_url": "https://eonline.com/favicon.ico",
+        "cover_url": "https://eonline.com/images/icon.png",
+        "background_color": "#231f20",
         "score": 1.39,
         "destination_domains": [
             "www.eonline.com"
@@ -1159,6 +1285,8 @@
         "site_url": "espn.com",
         "feed_url": "https://www.espn.com/espn/rss/news",
         "favicon_url": "https://a.espncdn.com/favicon.ico",
+        "cover_url": "https://a.espncdn.com/icons/PWA_ESPN_512x512.png",
+        "background_color": "#ffffff",
         "score": 17.32,
         "destination_domains": [
             "www.espn.com"
@@ -1177,6 +1305,8 @@
         "site_url": "espncricinfo.com",
         "feed_url": "https://www.espncricinfo.com/rss/content/story/feeds/0.xml",
         "favicon_url": "https://wassets.hscicdn.com/static/images/favicon.ico",
+        "cover_url": "https://espncricinfo.com/static/images/s-512.png",
+        "background_color": "#03a9f4",
         "score": 0.93,
         "destination_domains": [
             "www.espncricinfo.com"
@@ -1196,6 +1326,8 @@
         "site_url": "espnfc.com",
         "feed_url": "https://www.espn.com/espn/rss/soccer/news",
         "favicon_url": "https://a.espncdn.com/favicon.ico",
+        "cover_url": "https://a.espncdn.com/wireless/mw5/r1/images/bookmark-icons-v2/espn-icon-57x57.png",
+        "background_color": "#ec1c24",
         "score": -0.42,
         "destination_domains": [
             "www.espn.com"
@@ -1215,6 +1347,8 @@
         "site_url": "etonline.com",
         "feed_url": "https://feeds.feedburner.com/ETTopStories",
         "favicon_url": "https://etonline.com/favicon.ico",
+        "cover_url": "https://etonline.com/img/favicons/android-icon-192x192.png",
+        "background_color": "#ffbe20",
         "score": -0.16,
         "destination_domains": [
             "www.etonline.com"
@@ -1236,6 +1370,8 @@
         "site_url": "eater.com",
         "feed_url": "https://feeds.feedburner.com/EaterNational",
         "favicon_url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/6253165/favicon.0.ico",
+        "cover_url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/6253177/favicon-192x192.0.png",
+        "background_color": "#d51406",
         "score": 5.7,
         "destination_domains": [
             "www.eater.com",
@@ -1256,6 +1392,8 @@
         "site_url": "edmunds.com",
         "feed_url": "https://www.edmunds.com/feeds/rss/articles.xml",
         "favicon_url": "https://edmunds.com/favicon.ico",
+        "cover_url": "https://static.ed.edmunds-media.com/unversioned/images/logos/edmunds-logo-200x200.png",
+        "background_color": "#4f514f",
         "score": 4.23,
         "destination_domains": [
             "www.edmunds.com"
@@ -1274,6 +1412,8 @@
         "site_url": "electrek.co",
         "feed_url": "https://electrek.co/feed/",
         "favicon_url": "https://electrek.co/favicon.ico",
+        "cover_url": "https://electrek.co/wp-content/themes/9to5-2015/images/favicons/electrek/icon-192x192.png",
+        "background_color": "#48d7ff",
         "score": 0.98,
         "destination_domains": [
             "electrek.co"
@@ -1292,6 +1432,8 @@
         "site_url": "elle.com",
         "feed_url": "https://www.elle.com/rss/fashion.xml/",
         "favicon_url": "https://elle.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 1.8,
         "destination_domains": [
             "www.elle.com"
@@ -1310,6 +1452,8 @@
         "site_url": "engadget.com",
         "feed_url": "https://www.engadget.com/rss-full.xml",
         "favicon_url": "https://engadget.com/favicon.ico",
+        "cover_url": "https://s.yimg.com/kw/assets/favicon-160x160.png",
+        "background_color": "#000000",
         "score": 5.34,
         "destination_domains": [
             "www.engadget.com"
@@ -1328,6 +1472,8 @@
         "site_url": "entrepreneur.com",
         "feed_url": "https://feeds.feedburner.com/entrepreneur/latest",
         "favicon_url": "https://assets.entrepreneur.com/favicon.ico",
+        "cover_url": "https://assets.entrepreneur.com/ent-apple-touch-icon.jpg",
+        "background_color": "#323232",
         "score": 1.39,
         "destination_domains": [
             "www.entrepreneur.com"
@@ -1346,6 +1492,8 @@
         "site_url": "esquire.com",
         "feed_url": "https://www.esquire.com/rss/style.xml/",
         "favicon_url": "https://esquire.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 2.1,
         "destination_domains": [
             "www.esquire.com"
@@ -1364,6 +1512,8 @@
         "site_url": "euronews.com",
         "feed_url": "https://feeds.feedburner.com/euronews/en/home/",
         "favicon_url": "https://euronews.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": -1.32,
         "destination_domains": [
             "www.euronews.com"
@@ -1382,6 +1532,8 @@
         "site_url": "failblog.cheezburger.com",
         "feed_url": "https://feeds.feedburner.com/failblog",
         "favicon_url": "https://failblog.cheezburger.com/favicon.ico",
+        "cover_url": "https://s.chzbgr.com/s/unversioned/images/square_logos/FailBlog.png",
+        "background_color": "#231e1f",
         "score": 2.45,
         "destination_domains": [
             "cheezburger.com"
@@ -1400,6 +1552,8 @@
         "site_url": "foxbusiness.com",
         "feed_url": "https://feeds.foxbusiness.com/foxbusiness/latest",
         "favicon_url": "https://static.foxnews.com/static/orion/styles/img/fox-business/favicons/favicon.ico",
+        "cover_url": "https://static.foxnews.com/static/orion/styles/img/fox-business/favicons/android-chrome-192x192.png",
+        "background_color": "#ffffff",
         "score": -0.61,
         "destination_domains": [
             "www.foxbusiness.com"
@@ -1418,6 +1572,8 @@
         "site_url": "foxnews.com",
         "feed_url": "https://feeds.foxnews.com/foxnews/latest",
         "favicon_url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/favicon.ico",
+        "cover_url": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/android-chrome-192x192.png",
+        "background_color": "#003366",
         "score": 2.81,
         "destination_domains": [
             "www.foxnews.com"
@@ -1436,6 +1592,8 @@
         "site_url": "foxsports.com",
         "feed_url": "https://api.foxsports.com/v1/rss",
         "favicon_url": "https://foxsports.com/favicon.ico",
+        "cover_url": "https://foxsports.com/android-chrome-256x256.png",
+        "background_color": "#ffffff",
         "score": -0.69,
         "destination_domains": [
             "www.foxsports.com"
@@ -1454,6 +1612,8 @@
         "site_url": "blogs.fangraphs.com",
         "feed_url": "https://blogs.fangraphs.com/feed/",
         "favicon_url": "https://cdn.fangraphs.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": -0.89,
         "destination_domains": [
             "blogs.fangraphs.com"
@@ -1473,6 +1633,8 @@
         "site_url": "fashionbeans.com",
         "feed_url": "https://www.fashionbeans.com/feed/",
         "favicon_url": "https://fashionbeans.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": -0.67,
         "destination_domains": [
             "www.fashionbeans.com"
@@ -1491,6 +1653,8 @@
         "site_url": "fashionista.com",
         "feed_url": "https://feeds.feedburner.com/fashionistacom",
         "favicon_url": "https://fashionista.com/.image/assets/MTM0MTYyNjcyOTYxNzU1NjE0/favicon.ico",
+        "cover_url": "https://fashionista.com/site/images/apple-touch-icon-114x114-precomposed.png?v=2022-08-22-195946-d32a854-028480",
+        "background_color": "#404042",
         "score": 3.03,
         "destination_domains": [
             "fashionista.com"
@@ -1509,6 +1673,8 @@
         "site_url": "fastcompany.com",
         "feed_url": "https://feeds.feedburner.com/fastcompany/headlines",
         "favicon_url": "https://fastcompany.com/favicon.ico?v=5",
+        "cover_url": "https://images.fastcompany.net/image/upload/v1499719004/fcweb/android-chrome-512x512_kmmfwf.png",
+        "background_color": "#000000",
         "score": 3.66,
         "destination_domains": [
             "www.fastcompany.com"
@@ -1527,6 +1693,8 @@
         "site_url": "filmschoolrejects.com",
         "feed_url": "https://feeds.feedburner.com/FilmSchoolRejects",
         "favicon_url": "https://rejectswp.staging.wpengine.com/wp-content/uploads/logos/favicon.ico",
+        "cover_url": "https://filmschoolrejects.com/wp-content/uploads/2021/07/cropped-fsr-site-icon.png",
+        "background_color": "#051236",
         "score": -0.5,
         "destination_domains": [
             "filmschoolrejects.com"
@@ -1545,6 +1713,8 @@
         "site_url": "financemagnates.com",
         "feed_url": "https://www.financemagnates.com/cryptocurrency/feed/",
         "favicon_url": "https://financemagnates.com/favicon.ico",
+        "cover_url": "https://images.financemagnates.com/static/fm-default-thumbnail.jpg",
+        "background_color": "#451f98",
         "score": -0.07,
         "destination_domains": [
             "www.financemagnates.com"
@@ -1563,6 +1733,8 @@
         "site_url": "ft.com",
         "feed_url": "https://www.ft.com/rss/home/uk",
         "favicon_url": "https://ft.com/favicon.ico",
+        "cover_url": "https://www.ft.com/__assets/creatives/brand-ft/icons/v2/android-chrome-192x192.png",
+        "background_color": "#ffe3c4",
         "score": -1.33,
         "destination_domains": [
             "www.ft.com"
@@ -1582,6 +1754,8 @@
         "site_url": "ft.com",
         "feed_url": "https://www.ft.com/markets?format=rss",
         "favicon_url": "https://ft.com/favicon.ico",
+        "cover_url": "https://www.ft.com/__assets/creatives/brand-ft/icons/v2/android-chrome-192x192.png",
+        "background_color": "#ffe3c4",
         "score": -1.66,
         "destination_domains": [
             "www.ft.com"
@@ -1600,6 +1774,8 @@
         "site_url": "firstshowing.net",
         "feed_url": "https://www.firstshowing.net/feed/?full",
         "favicon_url": "https://firstshowing.net/favicon.ico",
+        "cover_url": "https://firstshowing.net/android-chrome-384x384.png",
+        "background_color": "#b30808",
         "score": -0.01,
         "destination_domains": [
             "www.firstshowing.net"
@@ -1618,6 +1794,8 @@
         "site_url": "fivethirtyeight.com",
         "feed_url": "https://fivethirtyeight.com/science/feed/",
         "favicon_url": "https://fivethirtyeight.com/wp-content/themes/espn-fivethirtyeight/assets/images/favicon.ico?v=1.0.24",
+        "cover_url": "https://fivethirtyeight.com/wp-content/themes/espn-fivethirtyeight/assets/images/fivethirtyeight-logo-touch.png?v=1.0.24",
+        "background_color": "#ffffff",
         "score": -0.16,
         "destination_domains": [
             "fivethirtyeight.com"
@@ -1636,6 +1814,8 @@
         "site_url": "fivethirtyeight.com",
         "feed_url": "https://fivethirtyeight.com/sports/feed/",
         "favicon_url": "https://fivethirtyeight.com/wp-content/themes/espn-fivethirtyeight/assets/images/favicon.ico?v=1.0.24",
+        "cover_url": "https://fivethirtyeight.com/wp-content/themes/espn-fivethirtyeight/assets/images/fivethirtyeight-logo-touch.png?v=1.0.24",
+        "background_color": "#ffffff",
         "score": -0.24,
         "destination_domains": [
             "projects.fivethirtyeight.com",
@@ -1655,6 +1835,8 @@
         "site_url": "flavorwire.com",
         "feed_url": "https://feeds.feedburner.com/flavorwire-rss",
         "favicon_url": "https://flavorwire.com/favicon.ico",
+        "cover_url": "https://imgix.bustle.com/uploads/image/2019/7/16/a78cea84-c3ba-473f-8f1b-d19c982d8a46-flavorwire-triangles.png?w=1200&h=630&fit=crop&crop=faces&fm=jpg",
+        "background_color": "#0095bf",
         "score": -0.44,
         "destination_domains": [
             "www.flavorwire.com"
@@ -1673,6 +1855,8 @@
         "site_url": "flowingdata.com",
         "feed_url": "https://flowingdata.com/feed",
         "favicon_url": "https://flowingdata.com/wp-content/themes/fd-modern-5-9/images/favicon.ico",
+        "cover_url": "https://flowingdata.com/wp-content/uploads/2014/10/logo-lone-square-600-5451c585_site_icon-256x256.png",
+        "background_color": "#821523",
         "score": 0.85,
         "destination_domains": [
             "flowingdata.com"
@@ -1691,6 +1875,8 @@
         "site_url": "flyertalk.com",
         "feed_url": "https://www.flyertalk.com/feed",
         "favicon_url": "https://flyertalk.com/favicon.ico",
+        "cover_url": "https://www.flyertalk.com/wp-content/uploads/2020/03/shutterstock_452502628-1000x600.jpg",
+        "background_color": "#232e04",
         "score": 0.25,
         "destination_domains": [
             "www.flyertalk.com"
@@ -1709,6 +1895,8 @@
         "site_url": "food52.com",
         "feed_url": "https://feeds.feedburner.com/food52-TheAandMBlog",
         "favicon_url": "https://food52.com/assets/favicon-31dab756d4a5fccaa7d3d20322231dc2b3e1d079035e5e16b4b301ffdbbd2033.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 4.3,
         "destination_domains": [
             "food52.com"
@@ -1727,6 +1915,8 @@
         "site_url": "forbes.com",
         "feed_url": "https://www.forbes.com/real-time/feed/",
         "favicon_url": "https://i.forbesimg.com/48X48-F.png",
+        "cover_url": "https://i.forbesimg.com/media/assets/appicons/forbes-app-icon_144x144.png",
+        "background_color": "#2c2c2c",
         "score": 3.61,
         "destination_domains": [
             "www.forbes.com"
@@ -1745,6 +1935,8 @@
         "site_url": "foreignpolicy.com",
         "feed_url": "https://foreignpolicy.com/feed/",
         "favicon_url": "https://foreignpolicy.com/favicon.ico",
+        "cover_url": "https://foreignpolicy.com/wp-content/uploads/2017/12/cropped-favicon-512_2017.png?w=192",
+        "background_color": "#ee3125",
         "score": -1.4,
         "destination_domains": [
             "foreignpolicy.com"
@@ -1764,6 +1956,8 @@
         "site_url": "fortune.com",
         "feed_url": "https://fortune.com/feed/",
         "favicon_url": "https://fortune.com/favicon.ico",
+        "cover_url": "https://content.fortune.com/wp-content/uploads/2020/01/Digital-Card4.jpg?resize=1200,600",
+        "background_color": "#061822",
         "score": -1.45,
         "destination_domains": [
             "fortune.com"
@@ -1782,6 +1976,8 @@
         "site_url": "freakonomics.com",
         "feed_url": "https://freakonomics.com/feed/",
         "favicon_url": "https://freakonomics.com/favicon.ico",
+        "cover_url": "https://freakonomics.com/wp-content/uploads/2021/12/freako_logo.png",
+        "background_color": "#f47900",
         "score": -0.24,
         "destination_domains": [
             "freakonomics.com"
@@ -1800,6 +1996,8 @@
         "site_url": "frommers.com",
         "feed_url": "https://www.frommers.com/feed",
         "favicon_url": "https://frommers.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": -1.31,
         "destination_domains": [
             "www.frommers.com"
@@ -1818,6 +2016,8 @@
         "site_url": "futurism.com",
         "feed_url": "https://futurism.com/feed",
         "favicon_url": "https://futurism.com/favicon.ico",
+        "cover_url": "https://futurism.com/favicon.png",
+        "background_color": "#000000",
         "score": 0.87,
         "destination_domains": [
             "futurism.com"
@@ -1836,6 +2036,8 @@
         "site_url": "futurity.org",
         "feed_url": "https://www.futurity.org/feed/",
         "favicon_url": "https://futurity.org/favicon.ico",
+        "cover_url": "https://www.futurity.org/wp/wp-content/uploads/2018/08/futurity_ico.png",
+        "background_color": "#f8b70d",
         "score": 0.54,
         "destination_domains": [
             "www.futurity.org"
@@ -1854,6 +2056,8 @@
         "site_url": "gq.com",
         "feed_url": "https://www.gq.com/feed/rss",
         "favicon_url": "https://www.gq.com.au/wp-content/themes/newscorpau-nlm-gq/assets/dist/media/favicon.ico",
+        "cover_url": "https://origin.go.gq.com.au/wp-content/uploads/2018/04/cropped-ipmg-client-logo-gq1.png?w=192",
+        "background_color": "#000000",
         "score": 2.62,
         "destination_domains": [
             "www.gq.com"
@@ -1872,6 +2076,8 @@
         "site_url": "gsmarena.com",
         "feed_url": "https://www.gsmarena.com/rss-news-reviews.php3",
         "favicon_url": "https://gsmarena.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 0.77,
         "destination_domains": [
             "www.gsmarena.com"
@@ -1890,6 +2096,8 @@
         "site_url": "gizmodo.com",
         "feed_url": "https://gizmodo.com/rss",
         "favicon_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/fdj3buryz5nuzyf2k620.png",
+        "cover_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_200,q_80,w_200/fdj3buryz5nuzyf2k620.png",
+        "background_color": "#9c9c9c",
         "score": 2.65,
         "destination_domains": [
             "gizmodo.com"
@@ -1908,6 +2116,8 @@
         "site_url": "greatist.com",
         "feed_url": "https://greatist.com/feed",
         "favicon_url": "https://images-prod.healthline.com/hlcmsresource/images/frontend-static/favicon/favicon-gr8.ico",
+        "cover_url": "https://images-prod.healthline.com/hlcmsresource/images/frontend-static/favicon/v1/greatist-apple-touch-icon.png",
+        "background_color": "#000000",
         "score": 0.23,
         "destination_domains": [
             "greatist.com"
@@ -1926,6 +2136,8 @@
         "site_url": "hackaday.com",
         "feed_url": "https://hackaday.com/blog/feed/",
         "favicon_url": "https://hackaday.com/wp-content/themes/hackaday-2/favicon.ico?v=3",
+        "cover_url": "https://hackaday.com/wp-content/themes/hackaday-2/img/hackaday-logo_1024x1024.png?v=3",
+        "background_color": "#000000",
         "score": -0.81,
         "destination_domains": [
             "hackaday.com"
@@ -1944,6 +2156,8 @@
         "site_url": "hbr.org",
         "feed_url": "https://feeds.harvardbusiness.org/harvardbusiness/",
         "favicon_url": "https://hbr.org/favicon.ico",
+        "cover_url": "https://hbr.org/resources/images/android-chrome-512x512.png",
+        "background_color": "#000000",
         "score": 1.17,
         "destination_domains": [
             "hbr.org"
@@ -1962,6 +2176,8 @@
         "site_url": "healthline.com",
         "feed_url": "https://www.healthline.com/rss/health-news",
         "favicon_url": "https://images-prod.healthline.com/hlcmsresource/images/frontend-static/favicon/hl-logo-logomark-circle-black.ico",
+        "cover_url": "https://images-prod.healthline.com/hlcmsresource/images/frontend-static/favicon/v1/apple-touch-icon.png",
+        "background_color": "#000000",
         "score": 12.0,
         "destination_domains": [
             "www.healthline.com"
@@ -1980,6 +2196,8 @@
         "site_url": "highsnobiety.com",
         "feed_url": "https://feeds.feedburner.com/highsnobiety/rss",
         "favicon_url": "https://highsnobiety.com/favicon.ico",
+        "cover_url": "https://www.highsnobiety.com/wp-content/themes/highsnobiety/favicons/android-chrome-192x192.png?v=2018",
+        "background_color": "#1a1a1a",
         "score": 1.49,
         "destination_domains": [
             "www.highsnobiety.com"
@@ -1998,6 +2216,8 @@
         "site_url": "hollywoodlife.com",
         "feed_url": "https://hollywoodlife.com/feed/",
         "favicon_url": "https://hollywoodlife.com/favicon.ico",
+        "cover_url": "https://hollywoodlife.com/wp-content/uploads/2018/06/hl_logo.png?w=128",
+        "background_color": "#d42d93",
         "score": -0.69,
         "destination_domains": [
             "hollywoodlife.com"
@@ -2016,6 +2236,8 @@
         "site_url": "homedit.com",
         "feed_url": "https://feeds.feedburner.com/Homedit",
         "favicon_url": "https://homedit.com/favicon.ico",
+        "cover_url": "https://www.homedit.com/wp-content/uploads/2022/06/HD-logo-512-512.png",
+        "background_color": "#ffffff",
         "score": -0.19,
         "destination_domains": [
             "www.homedit.com"
@@ -2035,6 +2257,8 @@
         "site_url": "honestlywtf.com",
         "feed_url": "https://feeds.feedburner.com/honestlywtf",
         "favicon_url": "https://honestlywtf.com/favicon.ico",
+        "cover_url": "https://honestlywtf.com/wp-content/uploads/2018/04/favicon512_480-300x300.png",
+        "background_color": "#cdd7e1",
         "score": -0.62,
         "destination_domains": [
             "honestlywtf.com"
@@ -2053,6 +2277,8 @@
         "site_url": "houzz.com",
         "feed_url": "https://www.houzz.com/getGalleries/featured/out-rss",
         "favicon_url": "https://houzz.com/favicon/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 16.18,
         "destination_domains": [
             "www.houzz.com"
@@ -2072,6 +2298,8 @@
         "site_url": "howtogeek.com",
         "feed_url": "https://feeds.howtogeek.com/HowToGeek",
         "favicon_url": "https://howtogeek.com/public/favicon.ico",
+        "cover_url": "https://howtogeek.com/public/images/192x192.png",
+        "background_color": "#000000",
         "score": 0.92,
         "destination_domains": [
             "www.cloudsavvyit.com",
@@ -2092,6 +2320,8 @@
         "site_url": "huffingtonpost.com",
         "feed_url": "https://www.huffpost.com/section/world-news/feed",
         "favicon_url": "https://cambria.assets.huffpost.com/favicon.ico",
+        "cover_url": "https://img.huffingtonpost.com/asset/5f3448f32200001eb13888de.jpg",
+        "background_color": "#1d0c2e",
         "score": -1.43,
         "destination_domains": [
             "www.huffpost.com"
@@ -2110,6 +2340,8 @@
         "site_url": "hypebeast.com",
         "feed_url": "https://feeds.feedburner.com/hypebeast/feed",
         "favicon_url": "https://hypebeast.com/favicon.ico",
+        "cover_url": "https://static.hypebeast.com/dist/hypebeast/favicon/apple-touch-icon-1024x1024.png?v4",
+        "background_color": "#000000",
         "score": 4.42,
         "destination_domains": [
             "hypebeast.com"
@@ -2128,6 +2360,8 @@
         "site_url": "icanhas.cheezburger.com",
         "feed_url": "https://feeds.feedburner.com/ICanHasCheezburger",
         "favicon_url": "https://icanhas.cheezburger.com/favicon.ico",
+        "cover_url": "https://s.chzbgr.com/blob/1/ICHCnew.png",
+        "background_color": "#d6b565",
         "score": 1.25,
         "destination_domains": [
             "cheezburger.com"
@@ -2146,6 +2380,8 @@
         "site_url": "spectrum.ieee.org",
         "feed_url": "https://feeds2.feedburner.com/IeeeSpectrum",
         "favicon_url": "https://spectrum.ieee.org/favicon.ico",
+        "cover_url": "https://assets.rbl.ms/26596649/origin.png",
+        "background_color": "#ff4c00",
         "score": -0.87,
         "destination_domains": [
             "spectrum.ieee.org"
@@ -2164,6 +2400,8 @@
         "site_url": "ign.com",
         "feed_url": "https://feeds.ign.com/ign/reviews",
         "favicon_url": "https://kraken.ignimgs.com/favicon.ico",
+        "cover_url": "https://assets1.ignimgs.com/2020/06/09/iggy-1591742329095.jpg",
+        "background_color": "#ffffff",
         "score": 0.53,
         "destination_domains": [
             "www.ign.com"
@@ -2182,6 +2420,8 @@
         "site_url": "inc.com",
         "feed_url": "https://www.inc.com/rss/homepage.xml",
         "favicon_url": "https://www.incimages.com/favicons/favicon.ico",
+        "cover_url": "https://www.incimages.com/branding/icons/inc_i_dotless_512x512.png",
+        "background_color": "#000000",
         "score": 0.72,
         "destination_domains": [
             "www.inc.com"
@@ -2200,6 +2440,8 @@
         "site_url": "indiewire.com",
         "feed_url": "https://www.indiewire.com/feed/",
         "favicon_url": "https://indiewire.com/favicon.ico",
+        "cover_url": "https://www.indiewire.com/wp-content/uploads/2018/04/cropped-iw_favicon.png",
+        "background_color": "#0a5da7",
         "score": 1.04,
         "destination_domains": [
             "www.indiewire.com"
@@ -2219,6 +2461,8 @@
         "site_url": "informationisbeautiful.net",
         "feed_url": "https://feeds.feedburner.com/InformationIsBeautiful",
         "favicon_url": "https://informationisbeautiful.net/favicon.ico",
+        "cover_url": "https://informationisbeautiful.net/android-chrome-512x512.png",
+        "background_color": "#ffffff",
         "score": 1.13,
         "destination_domains": [
             "informationisbeautiful.net"
@@ -2237,6 +2481,8 @@
         "site_url": "insideevs.com",
         "feed_url": "https://insideevs.com/rss/articles/all/",
         "favicon_url": "https://insideevs.com/favicon.ico",
+        "cover_url": "https://cdn.motor1.com/images/static/insideevs/favicon-228.png",
+        "background_color": "#ffffff",
         "score": 1.0,
         "destination_domains": [
             "insideevs.com"
@@ -2255,6 +2501,8 @@
         "site_url": "intothegloss.com/",
         "feed_url": "https://feeds.feedburner.com/intothegloss/oqoU",
         "favicon_url": "https://assets2.intothegloss.com/assets/misc/favicon-c5289286f05468868b306868af5d5003.png",
+        "cover_url": "https://assets2.intothegloss.com/assets/misc/itgsquare-2d18d3d83c785c9a6b2977c40ed44fbd.png",
+        "background_color": "#ffffff",
         "score": 0.02,
         "destination_domains": [
             "intothegloss.com"
@@ -2273,6 +2521,8 @@
         "site_url": "jalopnik.com",
         "feed_url": "https://jalopnik.com/rss",
         "favicon_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/aqhdzcldymb9mkltfhxh.png",
+        "cover_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_200,q_80,w_200/aqhdzcldymb9mkltfhxh.png",
+        "background_color": "#ff4d00",
         "score": 4.67,
         "destination_domains": [
             "jalopnik.com"
@@ -2291,6 +2541,8 @@
         "site_url": "juniperhome.com",
         "feed_url": "https://juniperhome.com/blog/feed/",
         "favicon_url": "https://jennykomenda.com/app/uploads/2021/06/logo-icon-jk.png",
+        "cover_url": null,
+        "background_color": null,
         "score": 0.06,
         "destination_domains": [
             "juniperhome.com"
@@ -2309,6 +2561,8 @@
         "site_url": "thekitchn.com",
         "feed_url": "https://feeds.feedburner.com/apartmenttherapy/thekitchn",
         "favicon_url": "https://thekitchn.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 11.09,
         "destination_domains": [
             "www.thekitchn.com"
@@ -2327,6 +2581,8 @@
         "site_url": "latimes.com",
         "feed_url": "https://www.latimes.com/local/rss2.0.xml",
         "favicon_url": "https://latimes.com/favicon.ico",
+        "cover_url": "https://latimes.com/apple-touch-icon.png",
+        "background_color": "#1e1e1e",
         "score": 0.07,
         "destination_domains": [
             "www.latimes.com"
@@ -2345,6 +2601,8 @@
         "site_url": "lifehacker.com",
         "feed_url": "https://lifehacker.com/rss",
         "favicon_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/u0939doeuioaqhspkjyc.png",
+        "cover_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_200,q_80,w_200/u0939doeuioaqhspkjyc.png",
+        "background_color": "#94b330",
         "score": 3.19,
         "destination_domains": [
             "lifehacker.com"
@@ -2364,6 +2622,8 @@
         "site_url": "livescience.com",
         "feed_url": "https://feeds.feedburner.com/Livesciencecom",
         "favicon_url": "https://vanilla.futurecdn.net/livescience/521446/favicon.ico",
+        "cover_url": "https://vanilla.futurecdn.net/livescience/521446/apple-touch-icon.png",
+        "background_color": "#ffffff",
         "score": 6.11,
         "destination_domains": [
             "www.livescience.com"
@@ -2382,6 +2642,8 @@
         "site_url": "lonelyplanet.com",
         "feed_url": "https://www.lonelyplanet.com/articles/news/feed/atom",
         "favicon_url": "https://lonelyplanet.com/favicon.ico",
+        "cover_url": "https://lonelyplanetstatic.imgix.net/microsites/bit2021/sustainability/hero.jpg?auto=compress&fit=crop&fm=auto&w=1200&h=800",
+        "background_color": "#cfd4d7",
         "score": 8.91,
         "destination_domains": [
             "www.lonelyplanet.com"
@@ -2400,6 +2662,8 @@
         "site_url": "mlbtraderumors.com",
         "feed_url": "https://www.mlbtraderumors.com/feed/atom",
         "favicon_url": "https://cdn.mlbtraderumors.com/wp-content/themes/mlbtr2015/images/favicon.ico?v=ngkBbGyONn",
+        "cover_url": "https://www.mlbtraderumors.com/wp-content/themes/mlbtr2015/images/android-chrome-256x256.png?v=ngkBbGyONn",
+        "background_color": "#090909",
         "score": -0.85,
         "destination_domains": [
             "www.mlbtraderumors.com"
@@ -2419,6 +2683,8 @@
         "site_url": "macrumors.com",
         "feed_url": "https://feeds.macrumors.com/MacRumors-Front",
         "favicon_url": "https://images.macrumors.com/images-new/favicon.ico",
+        "cover_url": "https://images.macrumors.com/images-new/apple-touch-icon.png?v=01",
+        "background_color": "#ffffff",
         "score": -0.07,
         "destination_domains": [
             "www.macrumors.com"
@@ -2437,6 +2703,8 @@
         "site_url": "makeuseof.com",
         "feed_url": "https://feeds.feedburner.com/Makeuseof",
         "favicon_url": "https://makeuseof.com/public/build/images/favicon-192x192.89cc1648.png",
+        "cover_url": "https://makeuseof.com/public/build/images/favicon-240x240.df310da5.png",
+        "background_color": "#c50d0d",
         "score": -0.76,
         "destination_domains": [
             "www.makeuseof.com"
@@ -2455,6 +2723,8 @@
         "site_url": "makingitlovely.com",
         "feed_url": "https://feeds2.feedburner.com/makingitlovely",
         "favicon_url": "https://makingitlovely.com/favicon.ico",
+        "cover_url": "https://makingitlovely.com/wp-content/uploads/2016/02/favicon.png",
+        "background_color": "#dd807d",
         "score": -0.18,
         "destination_domains": [
             "makingitlovely.com"
@@ -2474,6 +2744,8 @@
         "site_url": "marketwatch.com",
         "feed_url": "https://feeds.marketwatch.com/marketwatch/topstories/",
         "favicon_url": "https://mw4.wsj.net/mw5/content/logos/favicon.ico",
+        "cover_url": "https://mw4.wsj.net/mw5/content/images/favicons/apple-touch-icon-180x180.png",
+        "background_color": "#ffffff",
         "score": 0.88,
         "destination_domains": [
             "www.marketwatch.com"
@@ -2492,6 +2764,8 @@
         "site_url": "mashable.com",
         "feed_url": "https://feeds.mashable.com/Mashable",
         "favicon_url": "https://mashable.com/favicons/favicon.svg",
+        "cover_url": "https://mashable.com/favicons/android-chrome-512x512.png",
+        "background_color": "#000000",
         "score": 1.83,
         "destination_domains": [
             "mashable.com"
@@ -2510,6 +2784,8 @@
         "site_url": "matadornetwork.com",
         "feed_url": "https://matadornetwork.com/feed/",
         "favicon_url": "https://matadornetwork.com/favicon.ico",
+        "cover_url": "https://matadornetwork.com/apple-touch-icon.png",
+        "background_color": "#436588",
         "score": 2.07,
         "destination_domains": [
             "matadornetwork.com"
@@ -2528,6 +2804,8 @@
         "site_url": "mayoclinic.org",
         "feed_url": "https://www.mayoclinic.org/rss/all-health-information-topics",
         "favicon_url": "https://mayoclinic.org/favicon.ico",
+        "cover_url": "https://mayoclinic.org/-/media/web/gbs/shared/images/apple-touch-icon-152x152.png",
+        "background_color": "#27251e",
         "score": 3.78,
         "destination_domains": [
             "www.mayoclinic.org"
@@ -2546,6 +2824,8 @@
         "site_url": "medicinenet.com/script/main/hp.asp",
         "feed_url": "https://www.medicinenet.com/rss/dailyhealth.xml",
         "favicon_url": "https://medicinenet.com/favicon.ico",
+        "cover_url": "https://images.medicinenet.com/images/facebook/medicinenet/fb-mnet-default.jpg",
+        "background_color": "#ffffff",
         "score": 0.09,
         "destination_domains": [
             "www.medicinenet.com"
@@ -2564,6 +2844,8 @@
         "site_url": "menshealth.com",
         "feed_url": "https://www.menshealth.com/rss/all.xml/",
         "favicon_url": "https://menshealth.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 1.09,
         "destination_domains": [
             "www.menshealth.com"
@@ -2583,6 +2865,8 @@
         "site_url": "mentalfloss.com",
         "feed_url": "https://www.mentalfloss.com/rss.xml",
         "favicon_url": "https://mentalfloss.com/favicon.ico",
+        "cover_url": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_1:1,f_auto,q_auto,g_auto/frontier/favicons/MFFavicon_216ef394-60ef-4fac-9984-97a8819af760_400x.png",
+        "background_color": "#f16957",
         "score": 0.68,
         "destination_domains": [
             "www.mentalfloss.com"
@@ -2601,6 +2885,8 @@
         "site_url": "millionmilesecrets.com",
         "feed_url": "https://feeds.feedburner.com/MillionMileSecrets",
         "favicon_url": "https://millionmilesecrets.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 0.31,
         "destination_domains": [
             "millionmilesecrets.com"
@@ -2619,6 +2905,8 @@
         "site_url": "mindhacks.com",
         "feed_url": "https://mindhacks.com/feed/atom/",
         "favicon_url": "https://secure.gravatar.com/blavatar/e1a4389e311de66187044dee40297f7e?s=32",
+        "cover_url": "https://secure.gravatar.com/blavatar/e1a4389e311de66187044dee40297f7e?s=114",
+        "background_color": "#ffffff",
         "score": -0.06,
         "destination_domains": [
             "mindhacks.com"
@@ -2637,6 +2925,8 @@
         "site_url": "motherjones.com",
         "feed_url": "https://feeds.feedburner.com/motherjones/main",
         "favicon_url": "https://motherjones.com/favicon.ico",
+        "cover_url": "https://www.motherjones.com/wp-content/uploads/2017/09/cropped-favicon-512x512.png?w=192",
+        "background_color": "#f1632f",
         "score": -1.33,
         "destination_domains": [
             "www.motherjones.com"
@@ -2656,6 +2946,8 @@
         "site_url": "motor1.com",
         "feed_url": "https://www.motor1.com/rss/news/all/",
         "favicon_url": "https://motor1.com/favicon.ico",
+        "cover_url": "https://cdn.motor1.com/images/static/motor1/favicon-228.png",
+        "background_color": "#000000",
         "score": 3.43,
         "destination_domains": [
             "www.motor1.com"
@@ -2674,6 +2966,8 @@
         "site_url": "nasa.gov/news",
         "feed_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
         "favicon_url": "https://nasa.gov/favicon.ico",
+        "cover_url": "https://nasa.gov/sites/all/themes/custom/nasatwo/images/apple-touch-icon-152x152.png",
+        "background_color": "#1a5dad",
         "score": 0.33,
         "destination_domains": [
             "www.nasa.gov"
@@ -2692,6 +2986,8 @@
         "site_url": "nasa.gov",
         "feed_url": "https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
         "favicon_url": "https://nasa.gov/favicon.ico",
+        "cover_url": "https://nasa.gov/sites/all/themes/custom/nasatwo/images/apple-touch-icon-152x152.png",
+        "background_color": "#1a5dad",
         "score": 1.73,
         "destination_domains": [
             "www.nasa.gov"
@@ -2711,6 +3007,8 @@
         "site_url": "nbcnews.com",
         "feed_url": "https://feeds.nbcnews.com/nbcnews/public/news",
         "favicon_url": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/favicon.ico",
+        "cover_url": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/android-icon-192x192.png",
+        "background_color": "#000000",
         "score": 2.22,
         "destination_domains": [
             "www.nbcnews.com"
@@ -2729,6 +3027,8 @@
         "site_url": "npr.org",
         "feed_url": "https://feeds.npr.org/1001/rss.xml",
         "favicon_url": "https://npr.org/favicon.ico",
+        "cover_url": "https://static-assets.npr.org/static/images/favicon/favicon-180x180.png",
+        "background_color": "#ffffff",
         "score": 1.06,
         "destination_domains": [
             "www.npr.org"
@@ -2747,6 +3047,8 @@
         "site_url": "nature.com",
         "feed_url": "https://feeds.nature.com/nature/rss/current",
         "favicon_url": "https://nature.com/static/images/favicons/nature/favicon.ico",
+        "cover_url": "https://nature.com/static/images/favicons/nature/android-chrome-512x512.png",
+        "background_color": "#000000",
         "score": 4.06,
         "destination_domains": [
             "www.nature.com"
@@ -2765,6 +3067,8 @@
         "site_url": "nerdfitness.com",
         "feed_url": "https://feeds.feedburner.com/NerdFitnessBlog",
         "favicon_url": "https://nerdfitness.com/favicon.ico",
+        "cover_url": "https://www.nerdfitness.com/wp-content/uploads/2016/07/nf-logo.png",
+        "background_color": "#c63737",
         "score": 0.99,
         "destination_domains": [
             "www.nerdfitness.com"
@@ -2784,6 +3088,8 @@
         "site_url": "nejm.org",
         "feed_url": "https://www.nejm.org/action/showFeed?jc=nejm&amp;type=etoc&amp;feed=rss",
         "favicon_url": "https://nejm.org/favicon.ico",
+        "cover_url": "https://www.nejm.org/templates/jsp/_mms/image/NEJM_defaultlogo_200px.png",
+        "background_color": "#fffcec",
         "score": 0.48,
         "destination_domains": [
             "www.nejm.org"
@@ -2802,6 +3108,8 @@
         "site_url": "newscientist.com",
         "feed_url": "https://feeds.newscientist.com/science-news/",
         "favicon_url": "https://newscientist.com/build/images/layup/new-sci-favicon.544ffea5.ico",
+        "cover_url": "https://newscientist.com/build/images/layup/touch-icon/180x180.50b024f6.png",
+        "background_color": "#0b1f3e",
         "score": 1.71,
         "destination_domains": [
             "www.newscientist.com"
@@ -2820,6 +3128,8 @@
         "site_url": "nypost.com",
         "feed_url": "https://nypost.com/news/feed/",
         "favicon_url": "https://nypost.com/wp-content/themes/nypost-2016/static/images/favicon-nypost/favicon.ico",
+        "cover_url": "https://nypost.com/wp-content/themes/nypost-2016/static/images/favicon-nypost/icon-512x512.png",
+        "background_color": "#cc0000",
         "score": 1.39,
         "destination_domains": [
             "nypost.com"
@@ -2838,6 +3148,8 @@
         "site_url": "newsbtc.com",
         "feed_url": "https://www.newsbtc.com/feed/",
         "favicon_url": "https://newsbtc.com/favicon.ico",
+        "cover_url": "https://www.newsbtc.com/wp-content/uploads/2020/06/cropped-cropped-cropped-favicon-192x192.png",
+        "background_color": "#04aab9",
         "score": 1.77,
         "destination_domains": [
             "www.newsbtc.com"
@@ -2856,6 +3168,8 @@
         "site_url": "newsweek.com",
         "feed_url": "https://www.newsweek.com/rss",
         "favicon_url": "https://newsweek.com/favicon.ico",
+        "cover_url": "https://g.newsweek.com/themes/newsweek/favicons/apple-touch-icon.png",
+        "background_color": "#ff0500",
         "score": -0.04,
         "destination_domains": [
             "www.newsweek.com"
@@ -2874,6 +3188,8 @@
         "site_url": "onemileatatime.com",
         "feed_url": "https://onemileatatime.com/feed/",
         "favicon_url": "https://onemileatatime.com/favicon.ico",
+        "cover_url": "https://cdn.onemileatatime.com/wp-content/uploads/2021/02/cropped-cropped-favicon.png?width=192&auto_optimize=low&quality=75&height=192&aspect_ratio=1%3A1",
+        "background_color": "#ff4a00",
         "score": 2.51,
         "destination_domains": [
             "onemileatatime.com"
@@ -2892,6 +3208,8 @@
         "site_url": "openculture.com",
         "feed_url": "https://feeds.feedburner.com/OpenCulture",
         "favicon_url": "https://www.openculture.com/wp-content/themes/openculture_v4a/images/favicon.ico",
+        "cover_url": "https://www.openculture.com/wp-content/themes/openculture_v4a/images/apple_icon_new.png",
+        "background_color": "#ffffff",
         "score": 0.27,
         "destination_domains": [
             "www.openculture.com"
@@ -2910,6 +3228,8 @@
         "site_url": "psfk.com",
         "feed_url": "https://www.psfk.com/feeds/psfk",
         "favicon_url": "https://psfk.com/favicon.ico",
+        "cover_url": "https://www.psfk.com/wp-content/themes/psfk7/assets/sources/images/favicon/favicon-192.png?15-07-22",
+        "background_color": "#623b90",
         "score": -1.14,
         "destination_domains": [
             "www.psfk.com"
@@ -2928,6 +3248,8 @@
         "site_url": "paultan.org",
         "feed_url": "https://paultan.org/feed/",
         "favicon_url": "https://paultan.org/favicon.ico",
+        "cover_url": "https://paultan.org/touch-icon-ipad-retina.png",
+        "background_color": "#a00000",
         "score": -0.4,
         "destination_domains": [
             "paultan.org"
@@ -2946,6 +3268,8 @@
         "site_url": "penny-arcade.com",
         "feed_url": "https://feeds.penny-arcade.com/pa-mainsite",
         "favicon_url": "https://assets.penny-arcade.com/img/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 1.21,
         "destination_domains": [
             "www.penny-arcade.com"
@@ -2964,6 +3288,8 @@
         "site_url": "phys.org",
         "feed_url": "https://phys.org/rss-feed/",
         "favicon_url": "https://phys.b-cdn.net/favicon.ico",
+        "cover_url": "https://sciencex.com/gfx/shared/phys_icon_192.png",
+        "background_color": "#153568",
         "score": 0.23,
         "destination_domains": [
             "phys.org"
@@ -2982,6 +3308,8 @@
         "site_url": "pinchofyum.com",
         "feed_url": "https://feeds.feedburner.com/pinch-of-yum",
         "favicon_url": "https://pinchofyum.com/favicon.ico",
+        "cover_url": "https://pinchofyum.com/wp-content/uploads/cropped-Pinch-of-Yum-Favicon-512-300x300.png",
+        "background_color": "#713e5f",
         "score": 0.48,
         "destination_domains": [
             "pinchofyum.com"
@@ -3000,6 +3328,8 @@
         "site_url": "politico.com",
         "feed_url": "https://rss.politico.com/politics-news.xml",
         "favicon_url": "https://static.politico.com/cf/05/ee684a274496b04fa20ba2978da1/politico.png",
+        "cover_url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+        "background_color": "#cd181d",
         "score": -0.05,
         "destination_domains": [
             "www.politico.com"
@@ -3019,6 +3349,8 @@
         "site_url": "poppytalk.com",
         "feed_url": "https://feeds.feedburner.com/blogspot/ISuVv",
         "favicon_url": "https://poppytalk.com/favicon.ico",
+        "cover_url": "https://poppytalk.com/wp-content/uploads/2022/02/cropped-7A075157-731D-4CA9-8813-85C6839B1136-192x192.png",
+        "background_color": "#050608",
         "score": 0.11,
         "destination_domains": [
             "poppytalk.blogspot.com"
@@ -3037,6 +3369,8 @@
         "site_url": "popsugar.com",
         "feed_url": "https://www.popsugar.com/feed",
         "favicon_url": "https://popsugar.com/favicon.ico?v=2",
+        "cover_url": "https://media1.popsugar-assets.com/v4770/static/imgs/apple/apple-touch-icon-180x180.png",
+        "background_color": "#002689",
         "score": 3.36,
         "destination_domains": [
             "www.popsugar.com"
@@ -3055,6 +3389,8 @@
         "site_url": "popsci.com",
         "feed_url": "https://www.popsci.com/feed/",
         "favicon_url": "https://www.popsci.com/uploads/2021/02/02/popscifavicon.png",
+        "cover_url": "https://www.popsci.com/uploads/2021/04/28/cropped-PSC3.png?auto=webp&width=192&height=192",
+        "background_color": "#e86044",
         "score": 4.9,
         "destination_domains": [
             "www.popsci.com"
@@ -3073,6 +3409,8 @@
         "site_url": "postsecret.blogspot.com",
         "feed_url": "https://postsecret.blogspot.com/feeds/posts/default",
         "favicon_url": "http://www.postsecretcommunity.com/misc/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": -0.06,
         "destination_domains": [
             "postsecret.blogspot.com"
@@ -3091,6 +3429,8 @@
         "site_url": "propublica.org",
         "feed_url": "https://www.propublica.org/feeds/propublica/main",
         "favicon_url": "https://propublica.org/favicon.ico",
+        "cover_url": "https://assets.propublica.org/static/prod/v5/images/apple-touch-icon-180x180.png",
+        "background_color": "#304154",
         "score": -1.38,
         "destination_domains": [
             "www.propublica.org"
@@ -3109,6 +3449,8 @@
         "site_url": "putthison.com",
         "feed_url": "https://putthison.com/feed/",
         "favicon_url": "https://putthison.com/favicon.ico",
+        "cover_url": "https://putthison.com/wp-content/themes/pto/assets/images/apple-icon-touch.png",
+        "background_color": "#ff0a12",
         "score": -0.84,
         "destination_domains": [
             "putthison.com"
@@ -3127,6 +3469,8 @@
         "site_url": "qz.com",
         "feed_url": "https://cms.qz.com/feed/",
         "favicon_url": "https://qz.com/favicon.ico",
+        "cover_url": "https://i.kinja-img.com/gawker-media/image/upload/w_192,h_192/z0tv68jrzudw9elopji0.png",
+        "background_color": "#000000",
         "score": -0.86,
         "destination_domains": [
             "qz.com"
@@ -3145,6 +3489,8 @@
         "site_url": "basketball.realgm.com/news",
         "feed_url": "https://basketball.realgm.com/rss/realgm_nba_wiretap.xml",
         "favicon_url": "https://basketball.realgm.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": -1.27,
         "destination_domains": [
             "basketball.realgm.com"
@@ -3164,6 +3510,8 @@
         "site_url": "refinery29.com",
         "feed_url": "https://www.refinery29.com/index.xml",
         "favicon_url": "https://refinery29.com/favicon.ico",
+        "cover_url": "https://www.refinery29.com/assets/ceca07ea31bccaf0dc283e59c247e70d.jpg",
+        "background_color": "#f23b40",
         "score": 7.95,
         "destination_domains": [
             "www.refinery29.com"
@@ -3182,6 +3530,8 @@
         "site_url": "remodelista.com",
         "feed_url": "https://www.remodelista.com/feed/",
         "favicon_url": "https://remodelista.com/assets/favicons/rm/favicon.ico",
+        "cover_url": "https://remodelista.com/assets/favicons/rm/apple-touch-icon.png",
+        "background_color": "#353540",
         "score": -0.2,
         "destination_domains": [
             "www.remodelista.com"
@@ -3201,6 +3551,8 @@
         "site_url": "blog.ricksteves.com",
         "feed_url": "https://blog.ricksteves.com/feed/",
         "favicon_url": "https://blog.ricksteves.com/favicon.ico",
+        "cover_url": "https://blog.ricksteves.com/wp-content/uploads/2020/06/cropped-android-chrome-512x512-1-192x192.jpg",
+        "background_color": "#fefefe",
         "score": -1.52,
         "destination_domains": [
             "blog.ricksteves.com"
@@ -3219,6 +3571,8 @@
         "site_url": "rollingstone.com",
         "feed_url": "https://www.rollingstone.com/music/feed/",
         "favicon_url": "https://rollingstone.com/favicon.ico",
+        "cover_url": "https://www.rollingstone.com/wp-content/themes/vip/pmc-rollingstone-2022/assets/app/icons/apple-touch-icon.png",
+        "background_color": "#df3131",
         "score": 2.19,
         "destination_domains": [
             "www.rollingstone.com"
@@ -3238,6 +3592,8 @@
         "site_url": "sbnation.com",
         "feed_url": "https://feeds.sbnation.com/rss/current",
         "favicon_url": "https://cdn1.vox-cdn.com/dev/uploads/chorus_asset/file/8108502/sandbox-www-data-ip-10-0-0-66_/sandbox_64.0.ico",
+        "cover_url": "https://cdn1.vox-cdn.com/dev/uploads/chorus_asset/file/8108503/sandbox-www-data-ip-10-0-0-66_/sandbox_favicon-192x192.0.png",
+        "background_color": "#ff0033",
         "score": 0.1,
         "destination_domains": [
             "www.sbnation.com"
@@ -3256,6 +3612,8 @@
         "site_url": "self.com",
         "feed_url": "https://www.self.com/feed/rss",
         "favicon_url": "https://www.self.com/verso/static/self/assets/favicon.ico",
+        "cover_url": "https://media.self.com/photos/5bfef6efbec1632d4cf38bbf/16:9/w_1280,c_limit/group-of-women-running-in-park.jpg?mbid=social_retweet",
+        "background_color": "#9fa162",
         "score": 0.32,
         "destination_domains": [
             "www.self.com"
@@ -3275,6 +3633,8 @@
         "site_url": "salon.com",
         "feed_url": "https://www.salon.com/feed/",
         "favicon_url": "https://salon.com/favicon.ico",
+        "cover_url": "https://salon.com/apple-touch-icon.png",
+        "background_color": "#ffffff",
         "score": 0.05,
         "destination_domains": [
             "www.salon.com"
@@ -3293,6 +3653,8 @@
         "site_url": "smbc-comics.com",
         "feed_url": "https://www.smbc-comics.com/comic/rss",
         "favicon_url": "https://www.smbc-comics.com/favicon.ico",
+        "cover_url": "https://www.smbc-comics.com/comics/1661171744-20220822.png",
+        "background_color": "#ffffff",
         "score": 1.62,
         "destination_domains": [
             "www.smbc-comics.com"
@@ -3311,6 +3673,8 @@
         "site_url": "sciencealert.com",
         "feed_url": "https://feeds.feedburner.com/sciencealert-latestnews",
         "favicon_url": "https://sciencealert.com/favicon.ico",
+        "cover_url": "https://www.sciencealert.com/images/2022/08/cropped-sa-rounded-favicon-192x192.png",
+        "background_color": "#fdba17",
         "score": 2.85,
         "destination_domains": [
             "www.sciencealert.com"
@@ -3329,6 +3693,8 @@
         "site_url": "sciencedaily.com",
         "feed_url": "https://www.sciencedaily.com/newsfeed.xml",
         "favicon_url": "https://sciencedaily.com/favicon.ico",
+        "cover_url": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "background_color": "#753318",
         "score": 1.1,
         "destination_domains": [
             "www.sciencedaily.com"
@@ -3347,6 +3713,8 @@
         "site_url": "sciencemag.org",
         "feed_url": "https://www.science.org/rss/news_current.xml",
         "favicon_url": "https://sciencemag.org/favicon.ico",
+        "cover_url": "https://www.science.org/apple-touch-icon-precomposed.png",
+        "background_color": "#c4161c",
         "score": 3.68,
         "destination_domains": [
             "www.science.org"
@@ -3365,6 +3733,8 @@
         "site_url": "scientificamerican.com",
         "feed_url": "https://rss.sciam.com/ScientificAmerican-Global",
         "favicon_url": "https://scientificamerican.com/public/resources/favicons/favicon-4c8c70500bd3f01ae8c38cf7dd2771fe.ico",
+        "cover_url": "https://scientificamerican.com/public/resources/favicons/favicon-196-f10395ba7ecf07756e4b5a82c4795b61.png",
+        "background_color": "#ffffff",
         "score": 5.31,
         "destination_domains": [
             "www.scientificamerican.com"
@@ -3383,6 +3753,8 @@
         "site_url": "secretflying.com",
         "feed_url": "https://www.secretflying.com/feed/",
         "favicon_url": "https://secretflying.com/favicon.ico",
+        "cover_url": "https://secretflying.com/android-chrome-512x512.png?v=PYEkzWNjOP",
+        "background_color": "#231f20",
         "score": -1.4,
         "destination_domains": [
             "www.secretflying.com"
@@ -3401,6 +3773,8 @@
         "site_url": "seekingalpha.com",
         "feed_url": "https://seekingalpha.com/feed.xml",
         "favicon_url": "https://seekingalpha.com/favicon.ico",
+        "cover_url": "https://seekingalpha.com/samw/icon_512x512.60de11531ae1a2cfb05e9146b68739c4.png",
+        "background_color": "#ff7a1c",
         "score": -1.39,
         "destination_domains": [
             "seekingalpha.com"
@@ -3419,6 +3793,8 @@
         "site_url": "seriouseats.com",
         "feed_url": "https://feeds.seriouseats.com/seriouseatsfeaturesvideos",
         "favicon_url": "https://seriouseats.com/favicon.ico",
+        "cover_url": "https://www.seriouseats.com/thmb/NRfJOfuo1tSxnCy8jrp9hMr7Avo=/1001x1001/filters:fill(auto,1)/Serious_Eats_Social_Default-72cf0bc11b434461b62c6ffc85b4298f.jpg",
+        "background_color": "#262b31",
         "score": 5.03,
         "destination_domains": [
             "www.seriouseats.com"
@@ -3437,6 +3813,8 @@
         "site_url": "shape.com",
         "feed_url": "https://www.shape.com/rss.xml",
         "favicon_url": "https://shape.com/favicon.ico",
+        "cover_url": "https://www.shape.com/thmb/gliclPi32o-m89UD8Cn05QVLKIs=/640x640/filters:fill(auto,1)/shape_social-share-default-3877173494844c9595627609b85ec950.jpg",
+        "background_color": "#6a1d65",
         "score": -0.07,
         "destination_domains": [
             "www.shape.com"
@@ -3456,6 +3834,8 @@
         "site_url": "simplyrecipes.com",
         "feed_url": "https://www.simplyrecipes.com/feeds/google-news",
         "favicon_url": "https://simplyrecipes.com/favicon.ico",
+        "cover_url": "https://www.simplyrecipes.com/thmb/GumzGTKgFWAztADJFm2DsmeGofU=/2000x1333/filters:fill(auto,1)/SimplyRecipesRelaunch-LEAD-6f09832cea634074a3b6a7a8558c6c09.jpg",
+        "background_color": "#ffffff",
         "score": 5.37,
         "destination_domains": [
             "www.simplyrecipes.com"
@@ -3474,6 +3854,8 @@
         "site_url": "skift.com",
         "feed_url": "https://skift.com/feed/",
         "favicon_url": "https://skift.com/favicon.ico",
+        "cover_url": "https://skift.com/wp-content/uploads/2016/09/cropped-logo-square-yellow-192x192.png",
+        "background_color": "#fff200",
         "score": 2.5,
         "destination_domains": [
             "skift.com"
@@ -3492,6 +3874,8 @@
         "site_url": "sky.com",
         "feed_url": "https://feeds.skynews.com/feeds/rss/world.xml",
         "favicon_url": "https://www.sky.com/assets/masthead/images/favicon.ico",
+        "cover_url": "https://www.sky.com/assets/masthead/images/favicon-32.png",
+        "background_color": "#ffffff",
         "score": -1.28,
         "destination_domains": [
             "news.sky.com"
@@ -3510,6 +3894,8 @@
         "site_url": "skysports.com",
         "feed_url": "https://www.skysports.com/rss/11095",
         "favicon_url": "https://skysports.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 0.97,
         "destination_domains": [
             "www.skysports.com"
@@ -3528,6 +3914,8 @@
         "site_url": "slashfilm.com",
         "feed_url": "https://feeds.feedburner.com/slashfilm",
         "favicon_url": "https://www.slashfilm.com/img/slashfilm.ico",
+        "cover_url": "https://www.slashfilm.com/img/slashfilm-logo.png",
+        "background_color": "#20bfe1",
         "score": 0.82,
         "destination_domains": [
             "www.slashfilm.com"
@@ -3547,6 +3935,8 @@
         "site_url": "slate.com",
         "feed_url": "https://slate.com/feeds/all.rss",
         "favicon_url": "https://slate.com/favicon.ico",
+        "cover_url": "https://slate.com/media/sites/slate-com/icon-monochrome.512x512.png",
+        "background_color": "#2c0022",
         "score": 5.56,
         "destination_domains": [
             "slate.com"
@@ -3565,6 +3955,8 @@
         "site_url": "smallbiztrends.com",
         "feed_url": "https://feeds.feedburner.com/SmallBusinessTrends",
         "favicon_url": "https://smallbiztrends.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": -1.36,
         "destination_domains": [
             "smallbiztrends.com"
@@ -3583,6 +3975,8 @@
         "site_url": "smithsonianmag.com",
         "feed_url": "https://feeds.feedburner.com/smithsonianmag/science-nature",
         "favicon_url": "https://smithsonianmag.com/favicon.ico",
+        "cover_url": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/51/55/51552bfc-6530-4521-8a18-1e4473703d8c/smithsonianmagazine_webmanifest_icon_512.png",
+        "background_color": "#000000",
         "score": 1.25,
         "destination_domains": [
             "www.smithsonianmag.com"
@@ -3601,6 +3995,8 @@
         "site_url": "space.com",
         "feed_url": "https://www.space.com/feeds/all",
         "favicon_url": "https://vanilla.futurecdn.net/space/521446/favicon.ico",
+        "cover_url": "https://vanilla.futurecdn.net/space/521446/apple-touch-icon.png",
+        "background_color": "#000000",
         "score": 3.91,
         "destination_domains": [
             "www.space.com"
@@ -3619,6 +4015,8 @@
         "site_url": "speedhunters.com",
         "feed_url": "https://feeds.feedburner.com/Speedhunters",
         "favicon_url": "https://speedhunters.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 0.4,
         "destination_domains": [
             "www.speedhunters.com"
@@ -3637,6 +4035,8 @@
         "site_url": "medium.com/starts-with-a-bang?source=rss----458a773bccd2---4",
         "feed_url": "https://medium.com/feed/starts-with-a-bang",
         "favicon_url": "https://medium.com/favicon.ico",
+        "cover_url": "https://cdn-images-1.medium.com/fit/c/304/304/1*VH9usPh601npohqlvpnxvg.jpeg",
+        "background_color": "#2a2c77",
         "score": 7.69,
         "destination_domains": [
             "medium.com"
@@ -3655,6 +4055,8 @@
         "site_url": "stuckincustoms.com",
         "feed_url": "https://feeds.feedburner.com/stuckincustoms/EmRA",
         "favicon_url": "https://stuckincustoms.com/favicon.ico",
+        "cover_url": "http://stuckincustoms.smugmug.com/photos/740461231_emfwW-O.png",
+        "background_color": "#a28f64",
         "score": 2.7,
         "destination_domains": [
             "stuckincustoms.com"
@@ -3673,6 +4075,8 @@
         "site_url": "smh.com.au",
         "feed_url": "https://www.smh.com.au/rss/feed.xml",
         "favicon_url": "https://smh.com.au/favicons/smh.ico",
+        "cover_url": "https://smh.com.au/apple-touch-icons/smh.png",
+        "background_color": "#0a1633",
         "score": -1.1,
         "destination_domains": [
             "www.smh.com.au"
@@ -3691,6 +4095,8 @@
         "site_url": "ted.com",
         "feed_url": "https://feeds.feedburner.com/tedtalks_video",
         "favicon_url": "https://ted.com/favicon.ico",
+        "cover_url": "https://pa.tedcdn.com/apple-touch-icon.png",
+        "background_color": "#ffffff",
         "score": 6.61,
         "destination_domains": [
             "www.ted.com"
@@ -3710,6 +4116,8 @@
         "site_url": "tmz.com",
         "feed_url": "https://www.tmz.com/rss.xml",
         "favicon_url": "https://static.tmz.com/tmz-web/icons/favicon-48x48-v1.ico",
+        "cover_url": "https://static.tmz.com/tmz-web/icons/android-chrome-512x512-v1.png",
+        "background_color": "#000000",
         "score": 3.7,
         "destination_domains": [
             "www.tmz.com"
@@ -3728,6 +4136,8 @@
         "site_url": "tvline.com",
         "feed_url": "https://tvline.com/feed/",
         "favicon_url": "https://tvline.com/favicon.ico",
+        "cover_url": "https://tvline.com/wp-content/uploads/2018/06/logo-tvline.png",
+        "background_color": "#26abe1",
         "score": -0.87,
         "destination_domains": [
             "tvline.com"
@@ -3746,6 +4156,8 @@
         "site_url": "techcrunch.com",
         "feed_url": "https://techcrunch.com/feed/",
         "favicon_url": "https://techcrunch.com/favicon.ico",
+        "cover_url": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=192",
+        "background_color": "#14d025",
         "score": 3.15,
         "destination_domains": [
             "techcrunch.com"
@@ -3764,6 +4176,8 @@
         "site_url": "techradar.com",
         "feed_url": "https://www.techradar.com/rss",
         "favicon_url": "https://vanilla.futurecdn.net/techradar/521446/favicon.ico",
+        "cover_url": "https://vanilla.futurecdn.net/techradar/521446/apple-touch-icon.png",
+        "background_color": "#2f6e91",
         "score": 1.7,
         "destination_domains": [
             "www.techradar.com"
@@ -3782,6 +4196,8 @@
         "site_url": "avclub.com",
         "feed_url": "https://www.avclub.com/rss",
         "favicon_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/no63bw902mddhwxtjtxh.png",
+        "cover_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_200,q_80,w_200/no63bw902mddhwxtjtxh.png",
+        "background_color": "#1c263c",
         "score": 0.42,
         "destination_domains": [
             "www.avclub.com"
@@ -3800,6 +4216,8 @@
         "site_url": "artofmanliness.com",
         "feed_url": "https://feeds2.feedburner.com/TheArtOfManliness",
         "favicon_url": "https://artofmanliness.com/favicon.ico",
+        "cover_url": "https://www.artofmanliness.com/wp-content/themes/aom/assets/img/icon.png",
+        "background_color": "#eeeeee",
         "score": 5.71,
         "destination_domains": [
             "www.artofmanliness.com"
@@ -3818,6 +4236,8 @@
         "site_url": "theathletic.com",
         "feed_url": "https://theathletic.com/rss-feed/",
         "favicon_url": "https://theathletic.com/favicon.ico",
+        "cover_url": "https://theathletic.com/static/img/cropped-cropped-favicon1-192x192.png",
+        "background_color": "#111111",
         "score": -1.22,
         "destination_domains": [
             "theathletic.com"
@@ -3836,6 +4256,8 @@
         "site_url": "theathletic.com/nba",
         "feed_url": "https://theathletic.com/nba/?rss=1",
         "favicon_url": "https://theathletic.com/favicon.ico",
+        "cover_url": "https://theathletic.com/static/img/cropped-cropped-favicon1-192x192.png",
+        "background_color": "#111111",
         "score": -1.27,
         "destination_domains": [
             "theathletic.com"
@@ -3855,6 +4277,8 @@
         "site_url": "theatlantic.com",
         "feed_url": "https://feeds.feedburner.com/TheAtlantic",
         "favicon_url": "https://cdn.theatlantic.com/tng/static/theatlantic/img/lacroix/favicon.fb04af6390eb.ico",
+        "cover_url": "https://cdn.theatlantic.com/tng/static/theatlantic/img/lacroix/apple-touch-icon-ipad-retina.398a2c61e146.png",
+        "background_color": "#ffffff",
         "score": 7.11,
         "destination_domains": [
             "www.theatlantic.com"
@@ -3874,6 +4298,8 @@
         "site_url": "theblaze.com",
         "feed_url": "https://www.theblaze.com/feeds/news.rss",
         "favicon_url": "https://theblaze.com/favicon.ico",
+        "cover_url": "https://assets.rbl.ms/18924421/2000x.png",
+        "background_color": "#ff002d",
         "score": -0.97,
         "destination_domains": [
             "www.theblaze.com"
@@ -3893,6 +4319,8 @@
         "site_url": "bostonglobe.com",
         "feed_url": "https://www.bostonglobe.com/rss/feedly.xml",
         "favicon_url": "https://bostonglobe.com/favicon.ico",
+        "cover_url": "https://bostonglobe.com/pf/resources/images/icons/apple-touch-icon.png?v=bostonGlobe&d=358",
+        "background_color": "#ffffff",
         "score": -1.28,
         "destination_domains": [
             "www.bostonglobe.com"
@@ -3911,6 +4339,8 @@
         "site_url": "businessoffashion.com",
         "feed_url": "https://www.businessoffashion.com/arc/outboundfeeds/rss/?outputType=xml",
         "favicon_url": "https://businessoffashion.com/favicon.ico",
+        "cover_url": "https://businessoffashion.com/pf/resources/favicon.ico?d=131",
+        "background_color": "#040001",
         "score": 0.87,
         "destination_domains": [
             "www.businessoffashion.com"
@@ -3929,6 +4359,8 @@
         "site_url": "thecarconnection.com",
         "feed_url": "https://feeds.feedburner.com/MotorAuthority2",
         "favicon_url": "https://thecarconnection.com/favicon.ico",
+        "cover_url": "https://www.thecarconnection.com/images/logo-150x150.jpg",
+        "background_color": "#03152d",
         "score": -0.43,
         "destination_domains": [
             "www.motorauthority.com"
@@ -3947,6 +4379,8 @@
         "site_url": "csmonitor.com",
         "feed_url": "https://rss.csmonitor.com/feeds/top",
         "favicon_url": "https://csmonitor.com/favicon.ico",
+        "cover_url": "https://csmonitor.com/extension/csm_base/design/standard/images/apple-touch-icon.png",
+        "background_color": "#f7c224",
         "score": -1.35,
         "destination_domains": [
             "www.csmonitor.com"
@@ -3965,6 +4399,8 @@
         "site_url": "thedailybeast.com",
         "feed_url": "https://feeds.feedburner.com/thedailybeast/articles",
         "favicon_url": "https://thedailybeast.com/static/media/favicon.b30a79ed.ico",
+        "cover_url": "https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k",
+        "background_color": "#000000",
         "score": -0.8,
         "destination_domains": [
             "www.thedailybeast.com"
@@ -3983,6 +4419,8 @@
         "site_url": "thedesignfiles.net",
         "feed_url": "https://thedesignfiles.net/feed/",
         "favicon_url": "https://thedesignfiles.net/favicon.ico",
+        "cover_url": "https://thedesignfiles.net/wp-content/themes/tdf-2017/images/favicons/apple-touch-icon-152x152.png",
+        "background_color": "#fbdd1d",
         "score": -0.38,
         "destination_domains": [
             "thedesignfiles.net"
@@ -4002,6 +4440,8 @@
         "site_url": "thedrive.com",
         "feed_url": "https://api.thedrive.com/feed/?post_type=the_drive_article",
         "favicon_url": "https://www.thedrive.com/uploads/2021/12/14/favicon-196x196-1.png",
+        "cover_url": "https://www.thedrive.com/uploads/2021/12/14/favicon-196x196-1.png?auto=webp&width=192&height=192",
+        "background_color": "#f39b3f",
         "score": 0.44,
         "destination_domains": [
             "www.thedrive.com"
@@ -4020,6 +4460,8 @@
         "site_url": "economist.com",
         "feed_url": "https://www.economist.com/business/rss.xml",
         "favicon_url": "https://economist.com/engassets/ico/favicon.f1ea908894.ico",
+        "cover_url": "https://economist.com/ico/touch-icon-512x512.png",
+        "background_color": "#e3120b",
         "score": 0.7,
         "destination_domains": [
             "www.economist.com"
@@ -4038,6 +4480,8 @@
         "site_url": "theflightdeal.com",
         "feed_url": "https://feeds.feedburner.com/TheFlightDeal",
         "favicon_url": "https://theflightdeal.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": -1.54,
         "destination_domains": [
             "www.theflightdeal.com"
@@ -4056,6 +4500,8 @@
         "site_url": "theguardian.com",
         "feed_url": "https://www.theguardian.com/world/rss",
         "favicon_url": "https://assets.guim.co.uk/images/favicons/46bd2faa1ab438684a6d4528a655a8bd/32x32.ico",
+        "cover_url": "https://assets.guim.co.uk/images/favicons/fee5e2d638d1c35f6d501fa397e53329/152x152.png",
+        "background_color": "#ffffff",
         "score": 2.31,
         "destination_domains": [
             "www.theguardian.com"
@@ -4074,6 +4520,8 @@
         "site_url": "theguardian.com/us/travel",
         "feed_url": "https://www.theguardian.com/us/travel/rss",
         "favicon_url": "https://assets.guim.co.uk/images/favicons/46bd2faa1ab438684a6d4528a655a8bd/32x32.ico",
+        "cover_url": "https://assets.guim.co.uk/images/favicons/fee5e2d638d1c35f6d501fa397e53329/152x152.png",
+        "background_color": "#ffffff",
         "score": -1.39,
         "destination_domains": [
             "www.theguardian.com"
@@ -4092,6 +4540,8 @@
         "site_url": "thehill.com",
         "feed_url": "https://thehill.com/rss/syndicator/19110",
         "favicon_url": "https://thehill.com/favicon.ico",
+        "cover_url": "https://thehill.com/wp-content/uploads/sites/2/2022/05/cropped-favicon.png?w=192",
+        "background_color": "#2a53c1",
         "score": -0.47,
         "destination_domains": [
             "thehill.com"
@@ -4111,6 +4561,8 @@
         "site_url": "independent.co.uk",
         "feed_url": "https://www.independent.co.uk/rss",
         "favicon_url": "https://independent.co.uk/img/shortcut-icons/favicon.ico",
+        "cover_url": "https://independent.co.uk/img/shortcut-icons/icon-512x512.png",
+        "background_color": "#ec1f31",
         "score": -0.33,
         "destination_domains": [
             "www.independent.co.uk"
@@ -4129,6 +4581,8 @@
         "site_url": "fool.com",
         "feed_url": "https://www.fool.com/a/feeds/foolwatch?format=rss2&amp;id=foolwatch&amp;apikey=foolwatch-feed",
         "favicon_url": "https://g.foolcdn.com/misc-assets/logo-tmf-primary-favicon.ico",
+        "cover_url": "https://g.foolcdn.com/misc-assets/apple-touch-icon.png",
+        "background_color": "#0094c9",
         "score": -0.31,
         "destination_domains": [
             "www.fool.com"
@@ -4147,6 +4601,8 @@
         "site_url": "thenation.com",
         "feed_url": "https://www.thenation.com/feed/?post_type=article",
         "favicon_url": "https://www.thenation.com/images/favicon.ico?ver=2.0.2",
+        "cover_url": "https://www.thenation.com/images/touch-icon-152x152.png?ver=2.0.2",
+        "background_color": "#e4002b",
         "score": -1.42,
         "destination_domains": [
             "www.thenation.com"
@@ -4166,6 +4622,8 @@
         "site_url": "tnr.com",
         "feed_url": "https://newrepublic.com/rss.xml",
         "favicon_url": "https://assets.newrepublic.com/assets/favicons/favicon.ico",
+        "cover_url": "https://assets.newrepublic.com/assets/favicons/favicon-194x194.png",
+        "background_color": "#000000",
         "score": -1.39,
         "destination_domains": [
             "newrepublic.com"
@@ -4185,6 +4643,8 @@
         "site_url": "nybooks.com",
         "feed_url": "https://feeds.feedburner.com/nybooks",
         "favicon_url": "https://nybooks.com/favicon.ico",
+        "cover_url": "https://www.nybooks.com/wp-content/themes/nyrb_2020/img/favicon-32x32.png",
+        "background_color": "#990101",
         "score": -0.4,
         "destination_domains": [
             "www.nybooks.com"
@@ -4203,6 +4663,8 @@
         "site_url": "nytimes.com",
         "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
         "favicon_url": "https://nytimes.com/vi-assets/static-assets/favicon-d2483f10ef688e6f89e23806b9700298.ico",
+        "cover_url": "https://nytimes.com/vi-assets/static-assets/apple-touch-icon-28865b72953380a40aa43318108876cb.png",
+        "background_color": "#f0f0f0",
         "score": 5.74,
         "destination_domains": [
             "www.nytimes.com"
@@ -4221,6 +4683,8 @@
         "site_url": "newyorker.com",
         "feed_url": "https://www.newyorker.com/feed/everything",
         "favicon_url": "https://www.newyorker.com/verso/static/the-new-yorker/assets/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 3.96,
         "destination_domains": [
             "www.newyorker.com"
@@ -4239,6 +4703,8 @@
         "site_url": "thenextweb.com",
         "feed_url": "https://feeds2.feedburner.com/thenextweb",
         "favicon_url": "https://next.tnwcdn.com/assets/img/favicon/favicon-16x16.png",
+        "cover_url": "https://cdn0.tnwcdn.com/wp-content/themes/cyberdelia/assets/icons/android-chrome-192x192.png",
+        "background_color": "#000000",
         "score": -0.54,
         "destination_domains": [
             "thenextweb.com"
@@ -4257,6 +4723,8 @@
         "site_url": "theoatmeal.com",
         "feed_url": "https://theoatmeal.com/feed/rss",
         "favicon_url": "https://theoatmeal.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 2.39,
         "destination_domains": [
             "theoatmeal.com"
@@ -4275,6 +4743,8 @@
         "site_url": "theonion.com",
         "feed_url": "https://www.theonion.com/rss",
         "favicon_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/eti2h1r4wg0bqxctxenl.png",
+        "cover_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_200,q_80,w_200/eti2h1r4wg0bqxctxenl.png",
+        "background_color": "#006b3a",
         "score": 2.58,
         "destination_domains": [
             "www.theonion.com"
@@ -4293,6 +4763,8 @@
         "site_url": "thepointsguy.com",
         "feed_url": "https://feeds.feedburner.com/thepointsguy",
         "favicon_url": "https://thepointsguy.com/wp-content/themes/tpg-2016/favicon-new.ico?v=3",
+        "cover_url": null,
+        "background_color": null,
         "score": 9.94,
         "destination_domains": [
             "thepointsguy.com"
@@ -4311,6 +4783,8 @@
         "site_url": "theringer.com",
         "feed_url": "https://www.theringer.com/rss/index.xml",
         "favicon_url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/8991993/favicon.0.ico",
+        "cover_url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/8991995/favicon-196x196.0.png",
+        "background_color": "#000000",
         "score": -1.07,
         "destination_domains": [
             "www.theringer.com"
@@ -4329,6 +4803,8 @@
         "site_url": "theroot.com",
         "feed_url": "https://www.theroot.com/rss/full",
         "favicon_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/f5zr3vuc90hrpnmx0nme.png",
+        "cover_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_200,q_80,w_200/f5zr3vuc90hrpnmx0nme.png",
+        "background_color": "#59a625",
         "score": -0.43,
         "destination_domains": [
             "www.theroot.com"
@@ -4347,6 +4823,8 @@
         "site_url": "telegraph.co.uk",
         "feed_url": "https://www.telegraph.co.uk/news/rss.xml",
         "favicon_url": "https://telegraph.co.uk/etc/designs/telegraph/core/clientlibs/core/icons/favicon.ico",
+        "cover_url": "https://telegraph.co.uk/etc/designs/telegraph/core/clientlibs/core/icons/favicon-196x196.png",
+        "background_color": "#222222",
         "score": -0.85,
         "destination_domains": [
             "www.telegraph.co.uk"
@@ -4365,6 +4843,8 @@
         "site_url": "telegraph.co.uk/sport/",
         "feed_url": "https://www.telegraph.co.uk/sport/rss.xml",
         "favicon_url": "https://telegraph.co.uk/etc/designs/telegraph/core/clientlibs/core/icons/favicon.ico",
+        "cover_url": "https://telegraph.co.uk/etc/designs/telegraph/core/clientlibs/core/icons/favicon-196x196.png",
+        "background_color": "#222222",
         "score": 0.05,
         "destination_domains": [
             "www.telegraph.co.uk"
@@ -4383,6 +4863,8 @@
         "site_url": "thetruthaboutcars.com",
         "feed_url": "https://www.thetruthaboutcars.com/feed/",
         "favicon_url": "https://cdn-fastly.thetruthaboutcars.com/ttac_favicon48.ico",
+        "cover_url": "https://thetruthaboutcars.com/resources/themes/ttac/imgs-responsive/ttac-pwa-icon-512.png",
+        "background_color": "#ffffff",
         "score": 1.88,
         "destination_domains": [
             "www.thetruthaboutcars.com"
@@ -4401,6 +4883,8 @@
         "site_url": "theverge.com",
         "feed_url": "https://www.theverge.com/rss/full.xml",
         "favicon_url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/21956592/favicon-96x96.0.0.ico",
+        "cover_url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png",
+        "background_color": "#d4d4d4",
         "score": 5.96,
         "destination_domains": [
             "www.theverge.com"
@@ -4419,6 +4903,8 @@
         "site_url": "washingtontimes.com",
         "feed_url": "https://www.washingtontimes.com/rss/headlines/news/",
         "favicon_url": "https://twt-assets.washtimes.com/images/favicon.30333d68dff6.ico",
+        "cover_url": "https://twt-assets.washtimes.com/v4/images/icons/apple-touch-icon-precomposed.faa3cb2fc54e.png",
+        "background_color": "#a71e23",
         "score": -0.77,
         "destination_domains": [
             "www.washingtontimes.com"
@@ -4438,6 +4924,8 @@
         "site_url": "thoughtcatalog.com",
         "feed_url": "https://feeds.feedburner.com/ThoughtCatalog",
         "favicon_url": "https://thoughtcatalog.com/favicon.ico",
+        "cover_url": "https://thoughtcatalog.com/wp-content/uploads/2020/09/cropped-favicon-512x512-1-1.png?w=192",
+        "background_color": "#000000",
         "score": 0.38,
         "destination_domains": [
             "thoughtcatalog.com"
@@ -4456,6 +4944,8 @@
         "site_url": "travelweekly.com",
         "feed_url": "https://feeds.feedburner.com/TravelWeeklysTopStories",
         "favicon_url": "https://travelweekly.com/favicon.ico",
+        "cover_url": "https://travelweekly.com/dist/images/AppleIcons/apple-icon-144x144.png",
+        "background_color": "#ffffff",
         "score": -1.42,
         "destination_domains": [
             "www.travelweekly.com"
@@ -4474,6 +4964,8 @@
         "site_url": "trendir.com",
         "feed_url": "https://feeds.feedburner.com/trendir/",
         "favicon_url": "https://trendir.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 0.56,
         "destination_domains": [
             "www.trendir.com"
@@ -4492,6 +4984,8 @@
         "site_url": "uncrate.com",
         "feed_url": "https://feeds.feedburner.com/uncrate",
         "favicon_url": "https://uncrate.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": 3.11,
         "destination_domains": [
             "uncrate.com"
@@ -4510,6 +5004,8 @@
         "site_url": "uproxx.com",
         "feed_url": "https://feeds.feedburner.com/uproxx/withleather",
         "favicon_url": "https://uproxx.com/wp-content/themes/uproxx/assets/images/tabicon.png",
+        "cover_url": "https://s0.wp.com/i/blank.jpg",
+        "background_color": "#ffffff",
         "score": -1.05,
         "destination_domains": [
             "uproxx.com"
@@ -4528,6 +5024,8 @@
         "site_url": "upworthy.com",
         "feed_url": "https://feeds.feedburner.com/upworthy",
         "favicon_url": "https://upworthy.com/favicon.ico",
+        "cover_url": "https://assets.rbl.ms/19301381/980x.png",
+        "background_color": "#f44941",
         "score": -0.11,
         "destination_domains": [
             "biztoc.com"
@@ -4546,6 +5044,8 @@
         "site_url": "usmagazine.com",
         "feed_url": "https://www.usmagazine.com/category/entertainment/feed/",
         "favicon_url": "https://www.usmagazine.com/wp-content/themes/us-weekly/assets/img/favicon/favicon-16x16.png",
+        "cover_url": "https://www.usmagazine.com/wp-content/uploads/2020/05/cropped-us-logo.png?w=192&quality=86&strip=all",
+        "background_color": "#f52b90",
         "score": -0.29,
         "destination_domains": [
             "www.usmagazine.com"
@@ -4567,6 +5067,8 @@
         "site_url": "vice.com",
         "feed_url": "https://www.vice.com/en/rss?locale=en_us",
         "favicon_url": "https://vice-web-statics-cdn.vice.com/favicons/vice/favicon.ico",
+        "cover_url": "https://vice-web-statics-cdn.vice.com/favicons/vice/android-chrome-512x512.png",
+        "background_color": "#000000",
         "score": 5.53,
         "destination_domains": [
             "www.vice.com"
@@ -4585,6 +5087,8 @@
         "site_url": "vanityfair.com",
         "feed_url": "https://www.vanityfair.com/feed/rss",
         "favicon_url": "https://www.vanityfair.com/verso/static/vanity-fair/assets/favicon.ico",
+        "cover_url": "https://media.vanityfair.com/photos/5b8410c7a26d2c55ff422942/16:9/w_1280,c_limit/VF%20LOGO.png?mbid=social_retweet",
+        "background_color": "#000000",
         "score": 0.08,
         "destination_domains": [
             "www.vanityfair.com"
@@ -4604,6 +5108,8 @@
         "site_url": "variety.com",
         "feed_url": "https://feeds.feedburner.com/variety/headlines",
         "favicon_url": "https://variety.com/wp-content/themes/pmc-variety-2020/assets/app/icons/favicon.ico",
+        "cover_url": "https://variety.com/wp-content/themes/pmc-variety-2020/assets/app/icons/icon-512x512.png",
+        "background_color": "#04090a",
         "score": 2.14,
         "destination_domains": [
             "variety.com"
@@ -4625,6 +5131,8 @@
         "site_url": "venturebeat.com",
         "feed_url": "https://venturebeat.com/feed/",
         "favicon_url": "https://venturebeat.com/wp-content/themes/vb-news/img/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": -0.49,
         "destination_domains": [
             "venturebeat.com"
@@ -4644,6 +5152,8 @@
         "site_url": "vogue.com",
         "feed_url": "https://www.vogue.com/feed/rss",
         "favicon_url": "https://vogue.com/favicon.ico",
+        "cover_url": "https://origin.go.vogue.com.au/wp-content/uploads/2019/10/cropped-cropped-vogue-favicon-1.png?w=192",
+        "background_color": "#181815",
         "score": 1.64,
         "destination_domains": [
             "www.vogue.com"
@@ -4662,6 +5172,8 @@
         "site_url": "vox.com",
         "feed_url": "https://www.vox.com/rss/index.xml",
         "favicon_url": "https://vox.com/favicon.ico",
+        "cover_url": "https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/441/touch_icon_iphone_retina_1000_yellow.755.png",
+        "background_color": "#ffff00",
         "score": 6.21,
         "destination_domains": [
             "www.vox.com"
@@ -4680,6 +5192,8 @@
         "site_url": "wsj.com",
         "feed_url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
         "favicon_url": "https://wsj.com/favicon.ico",
+        "cover_url": "https://s.wsj.net/media/wsj_launcher-icon-4x.png",
+        "background_color": "#f7f7f7",
         "score": 0.38,
         "destination_domains": [
             "www.wsj.com"
@@ -4698,6 +5212,8 @@
         "site_url": "wsj.com",
         "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
         "favicon_url": "https://wsj.com/favicon.ico",
+        "cover_url": "https://s.wsj.net/media/wsj_launcher-icon-4x.png",
+        "background_color": "#f7f7f7",
         "score": 2.49,
         "destination_domains": [
             "www.wsj.com"
@@ -4716,6 +5232,8 @@
         "site_url": "wwd.com",
         "feed_url": "https://wwd.com/custom-feed/recent-stories/",
         "favicon_url": "https://wwd.com/wp-content/themes/vip/pmc-wwd-2021/assets/app/icons/favicon.ico",
+        "cover_url": "https://wwd.com/wp-content/uploads/2018/06/a9597fffaf6885dd6f870d1269ef3b72.png",
+        "background_color": "#040707",
         "score": -0.33,
         "destination_domains": [
             "wwd.com"
@@ -4734,6 +5252,8 @@
         "site_url": "washingtonpost.com",
         "feed_url": "https://www.washingtonpost.com/?outputType=rss",
         "favicon_url": "https://washingtonpost.com/favicon.ico",
+        "cover_url": "https://www.washingtonpost.com/wp-stat/assets/favicons/touch-icon-iphone-retina.png",
+        "background_color": "#000000",
         "score": 2.3,
         "destination_domains": [
             "www.washingtonpost.com"
@@ -4752,6 +5272,8 @@
         "site_url": "webmd.com",
         "feed_url": "https://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC",
         "favicon_url": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/favicon/webmd.ico",
+        "cover_url": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/logos/webmd/web/webmd-logo-fb.jpg",
+        "background_color": "#127ab1",
         "score": 9.47,
         "destination_domains": [
             "www.webmd.com"
@@ -4770,6 +5292,8 @@
         "site_url": "wellandgood.com",
         "feed_url": "https://www.wellandgood.com/feed/",
         "favicon_url": "https://www.wellandgood.com/wp-content/themes/wellgood-2016/assets/img/favicon.ico?a=2",
+        "cover_url": "https://www.wellandgood.com/wp-content/uploads/2018/04/favicon-194x194.png",
+        "background_color": "#b7227f",
         "score": 0.2,
         "destination_domains": [
             "www.wellandgood.com"
@@ -4788,6 +5312,8 @@
         "site_url": "wellnessmama.com",
         "feed_url": "https://wellnessmama.com/feed/",
         "favicon_url": "https://wellnessmama.com/favicon.ico",
+        "cover_url": null,
+        "background_color": null,
         "score": -0.29,
         "destination_domains": [
             "wellnessmama.com"
@@ -4806,6 +5332,8 @@
         "site_url": "whowhatwear.com",
         "feed_url": "https://feeds.whowhatwear.com/whowhatwear",
         "favicon_url": "https://whowhatwear.com/favicon.ico",
+        "cover_url": "https://whowhatwear.com/touch-icon-180x180.png",
+        "background_color": "#000000",
         "score": 1.92,
         "destination_domains": [
             "www.whowhatwear.com"
@@ -4824,6 +5352,8 @@
         "site_url": "wikihow.com",
         "feed_url": "https://www.wikihow.com/feed.rss",
         "favicon_url": "https://wikihow.com/favicon.ico",
+        "cover_url": "https://www.wikihow.com/skins/WikiHow/wH-initials_152x152.png",
+        "background_color": "#94b975",
         "score": 11.09,
         "destination_domains": [
             "www.wikihow.com"
@@ -4842,6 +5372,8 @@
         "site_url": "windowscentral.com",
         "feed_url": "https://feeds.feedburner.com/wmexperts",
         "favicon_url": "https://cdn.mos.cms.futurecdn.net/flexiimages/e3utnesr6b1647264394.png",
+        "cover_url": "https://cdn.mos.cms.futurecdn.net/flexiimages/gvnkdor1vl1647264367.png",
+        "background_color": "#ffffff",
         "score": -0.59,
         "destination_domains": [
             "www.windowscentral.com"
@@ -4860,6 +5392,8 @@
         "site_url": "wired.com",
         "feed_url": "https://www.wired.com/feed",
         "favicon_url": "https://www.wired.com/verso/static/wired-homepage/assets/favicon.ico",
+        "cover_url": "https://media.wired.com/photos/615e2b8ce78a8cd913bbaa76/16:9/w_1280,c_limit/wired_bug.jpg?mbid=social_retweet",
+        "background_color": "#000000",
         "score": 3.55,
         "destination_domains": [
             "www.wired.com"
@@ -4879,6 +5413,8 @@
         "site_url": "finance.yahoo.com",
         "feed_url": "https://finance.yahoo.com/rss/topstories",
         "favicon_url": "https://finance.yahoo.com/favicon.ico",
+        "cover_url": "https://s.yimg.com/uc/fin/img/19/02/d408d9d.png",
+        "background_color": "#440099",
         "score": 6.09,
         "destination_domains": [
             "www.barrons.com",
@@ -4901,6 +5437,8 @@
         "site_url": "sports.yahoo.com",
         "feed_url": "https://news.yahoo.com/rss/sports",
         "favicon_url": "https://sports.yahoo.com/favicon.ico",
+        "cover_url": "https://s.yimg.com/cv/apiv2/sports/web/app/Sports_512.png",
+        "background_color": "#5300a7",
         "score": 2.15,
         "destination_domains": [
             "news.yahoo.com"
@@ -4919,6 +5457,8 @@
         "site_url": "zdnet.com",
         "feed_url": "https://www.zdnet.com/news/rss.xml",
         "favicon_url": "https://zdnet.com/favicon.ico",
+        "cover_url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
+        "background_color": "#9fc23d",
         "score": 2.3,
         "destination_domains": [
             "www.zdnet.com"
@@ -4937,6 +5477,8 @@
         "site_url": "domino.com",
         "feed_url": "https://www.domino.com/feed/",
         "favicon_url": "https://www.domino.com/uploads/2022/06/22/Favicon_SM22_02.jpg",
+        "cover_url": null,
+        "background_color": null,
         "score": -0.33,
         "destination_domains": [
             "www.domino.com"
@@ -4955,6 +5497,8 @@
         "site_url": "io9.gizmodo.com",
         "feed_url": "https://feeds.feedburner.com/io9/",
         "favicon_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/fdj3buryz5nuzyf2k620.png",
+        "cover_url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_200,q_80,w_200/fdj3buryz5nuzyf2k620.png",
+        "background_color": "#9c9c9c",
         "score": 1.01,
         "destination_domains": [
             "gizmodo.com"
@@ -4973,6 +5517,8 @@
         "site_url": "kottke.org",
         "feed_url": "https://feeds.kottke.org/main",
         "favicon_url": "https://kottke.org/favicon.ico",
+        "cover_url": "https://kottke.org/images/2016/ios/192x192.png",
+        "background_color": "#f54f96",
         "score": -0.16,
         "destination_domains": [
             "kottke.org"
@@ -4991,6 +5537,8 @@
         "site_url": "mindbodygreen.com",
         "feed_url": "https://www.mindbodygreen.com/rss/feed.xml",
         "favicon_url": "https://www.mindbodygreen.com/favicon.ico",
+        "cover_url": "https://www.mindbodygreen.com/img/icons/android-chrome-512x512.png",
+        "background_color": "#000000",
         "score": 0.87,
         "destination_domains": [
             "www.mindbodygreen.com"
@@ -5009,6 +5557,8 @@
         "site_url": "sfgirlbybay.com",
         "feed_url": "https://www.sfgirlbybay.com/feed/",
         "favicon_url": "https://www.sfgirlbybay.com/wp-content/themes/sfgirlbybay-v2/assets/icons/favicon.ico",
+        "cover_url": "https://www.sfgirlbybay.com/wp-content/themes/sfgirlbybay-v2/assets/icons/favicon-32x32.png",
+        "background_color": "#fbe4d9",
         "score": 0.39,
         "destination_domains": [
             "www.sfgirlbybay.com"
